@@ -17,7 +17,7 @@
   - [x] Which pack should I choose?
   - [x] Mod-list
     - [ ] Mod descriptions
-    - [ ] Section GIFs
+    - [x] Section GIFs
   - [ ] Tutorial
 
 # Mango-SMP
@@ -46,13 +46,13 @@ Hay dos versiones del modpack:
   - Farmers Delight
     - Storage Delight
 
-![Info cocinando](assets/Farmer's%20Delight.gif)
+![Info cocinando](assets/farmersDelight.gif)
 
 **Nuevos enemigos para enfrontar y amaigos para domar!**
   - Friends & Foes
   - True Ending: Ender Dragon Overhaul
 
-![Info teniendo un skill issue](assets/iceloggerkillsme.gif)
+![Info teniendo un skill issue](assets/iceloggerSkillIssue.gif)
 
 **Mejoras y cambios a mecanicas exsitentes!**
   - **Minecarts & Railes**
@@ -70,7 +70,7 @@ Hay dos versiones del modpack:
     - Easy Magic
     - Easy Anvils
 
-![Info fumbling redstone](<assets/Crafting Table.gif>)
+![Info fumbling redstone](assets/craftingTable.gif)
 
   - **Bloques y Entidades**
     - Fast Item Frames
@@ -96,3 +96,9 @@ Hay dos versiones del modpack:
 ---
 
 # Tutorial:
+
+1. descargar el zip en github
+2. descargar prism si no lo tienes
+3. click derecho en prism -> agregar instace from file
+4. cambiar el minimo de ram para mc
+5. abrir el juego y unirte al servidor

@@ -26,7 +26,7 @@ Un pequeño modpack que agrega pocas cosas, pero con un enfoque en calidad.
 # Pero que descargo?
 Hay dos versiones del modpack:
 1. Mangos SMP+ AIR
-   - Esta version esta diseñada para computadoras menos poderosas, por lo que solo incluye los mas necesarsios para connectarse al servidor, mods para optimizar el juego y algunos que mejoran tu experiencia sin explotar tu pc.
+   - Esta version esta diseñada para computadoras menos poderosas, por lo que solo incluye lo mas necesarsios para connectarse al servidor, mods para optimizar el juego y algunos que mejoran tu experiencia sin explotar tu pc.
 2. Mangos SMP+ PRO
    - La version principal, incluye todo lo de AIR más mejoras en los graficos, sonidos, interfases, y mas. Si tienes una maquina arriba del promedio, esta es la version para ti!
 
@@ -85,8 +85,6 @@ Hay dos versiones del modpack:
   - Plasmo Voice
     - pv-addon-skulk
     - pv-addon-soundphysics
-
-Hello
 
 ---
 

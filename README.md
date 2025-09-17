@@ -13,7 +13,7 @@
       - [x] Remove server-only mods
       - [ ] Prune excess config files
 - [ ] ReadMe
-  - [x] Explination
+  - [x] Explanation
   - [x] Which pack should I choose?
   - [x] Mod-list
     - [ ] Mod descriptions

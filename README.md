@@ -46,9 +46,13 @@ Hay dos versiones del modpack:
   - Farmers Delight
     - Storage Delight
 
+![Info cocinando](assets/Farmer's%20Delight.gif)
+
 **Nuevos enemigos para enfrontar y amaigos para domar!**
   - Friends & Foes
   - True Ending: Ender Dragon Overhaul
+
+![Info teniendo un skill issue](assets/iceloggerkillsme.gif)
 
 **Mejoras y cambios a mecanicas exsitentes!**
   - **Minecarts & Railes**
@@ -65,6 +69,9 @@ Hay dos versiones del modpack:
     - MasterCutter
     - Easy Magic
     - Easy Anvils
+
+![Info fumbling redstone](<assets/Crafting Table.gif>)
+
   - **Bloques y Entidades**
     - Fast Item Frames
     - Armor Statues

@@ -1,11 +1,11 @@
 # To Do
 - [ ] Server
   - [x] Mods
-  - [ ] Config
+  - [x] Config
   - [x] World
       - [x] Pregen
       - [x] Datapacks
-  - [ ] Resourcepack
+  - [x] Resourcepack
 - [ ] Client
   - [ ] Pro
       - [ ] Configs

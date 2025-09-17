@@ -1,36 +1,46 @@
 # To Do
 - [ ] Server
-  - [ ] Mods
+  - [x] Mods
   - [ ] Config
   - [ ] World
-      - [ ] Datapacks?
+      - [ ] Pregen
+      - [x] Datapacks
   - [ ] Resourcepack
 - [ ] Client
   - [ ] Pro
       - [ ] Configs
   - [ ] Air
-      - [ ] Remove server-only mods
-      - [ ] 
+      - [x] Remove server-only mods
+      - [ ] Prune excess config files
 - [ ] ReadMe
-  - [ ] Explination
-  - [ ] Which pack should I choose?
-      - [ ] Short answers
-      - [ ] Long answers
+  - [x] Explination
+  - [x] Which pack should I choose?
+  - [x] Mod-list
+    - [ ] Mod descriptions
+    - [ ] Section GIFs
   - [ ] Tutorial
 
 # Mango-SMP
-A Small Minecraft modpack designed to be light and fun.
+Un pequeño modpack que agrega pocas cosas, pero con un enfoque en calidad.
 
-### Capacidades y Mods:
+# Pero que descargo?
+Hay dos versiones del modpack:
+1. Mangos SMP+ AIR
+   - Esta version esta diseñada para computadoras menos poderosas, por lo que solo incluye los mas necesarsios para connectarse al servidor, mods para optimizar el juego y algunos que mejoran tu experiencia sin explotar tu pc.
+2. Mangos SMP+ PRO
+   - La version principal, incluye todo lo de AIR más mejoras en los graficos, sonidos, interfases, y mas. Si tienes una maquina arriba del promedio, esta es la version para ti!
+
+### Mods:
 **Un mundo renovado sin perder la magia!**
   - William Wythers' Overhauled Overworld
   - Enderscape
-  - Biome Strongholds
-  - Explorify
-  - Pale Formations
-  - Revampved Shipwrecks
-  - Luki's Crazy Chambers
-  - Luki's Ancient Cities
+  - **Estructuras**
+    - Explorify
+    - Pale Formations
+    - Biome Strongholds
+    - Revampved Shipwrecks
+    - Luki's Crazy Chambers
+    - Luki's Ancient Cities
 
 **Nuevas cosas para tu cocina!**
   - Farmers Delight
@@ -70,7 +80,8 @@ A Small Minecraft modpack designed to be light and fun.
   - Carry On
   - Lootr
   - Sit
-  - Beltborne Lanterns
+  - LambDynamicLights
+    - Beltborne Lanterns
   - Plasmo Voice
     - pv-addon-skulk
     - pv-addon-soundphysics

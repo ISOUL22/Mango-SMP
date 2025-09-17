@@ -22,7 +22,7 @@ A Small Minecraft modpack designed to be light and fun.
 
 ### Features & Mods:
 **A new world to explore!**
-  - WWOO
+  - William Wythers' Overhauled Overworld
   - Enderscape
   - Biome Strongholds
   - Explorify
@@ -40,34 +40,38 @@ A Small Minecraft modpack designed to be light and fun.
   - True Ending: Ender Dragon Overhaul
 
 **Inprovements & expantions on existing mechanics!**
-  - Sleep Warp
-  - Comfortable Campfires
-  - Minecart & Rail Changes
+  - **Cambios Minecarts & Railes**
     - High Speed Rails
     - The Copper Rails
     - Rail Recipe Rebalance
     - Minecart Trains
     - Smooth Minecarts
     - I want that back
-  - Easy Magic
-  - Easy Anvils
-  - Visual Workbench
-  - MasterCutter
+  - **Mejoras al craftear**
+    - Roughly Enough Resources
+      - AdvancedLootInfo
+    - Visual Workbench
+    - MasterCutter
+    - Easy Magic
+    - Easy Anvils
+  - Sleep Warp
+  - Comfortable Campfires
   - Fast Item Frames
   - Armor Statues
-  - Roughly Enough Resources
-    - AdvancedLootInfo
-  - Carry On
-  - Lootr
   - Respawning Animals
   - Right Click Harvest
-  - Sit
+  - Combat Nouveau
   - Villager Healthcare
+
+  **Pequeñas novedades**
+  - Carry On
+  - Lootr
+  - Sit
+  - Beltborne Lanterns
   - Plasmo Voice
     - pv-addon-skulk
     - pv-addon-soundphysics
-  - Combat Nouveau
-  - Beltborne Lanterns
+
 
 
 ---

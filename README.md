@@ -9,7 +9,8 @@
   - [ ] Pro
       - [ ] Configs
   - [ ] Air
-      - [ ] Final polish pass
+      - [ ] Remove server-only mods
+      - [ ] 
 - [ ] ReadMe
   - [ ] Explination
   - [ ] Which pack should I choose?
@@ -20,8 +21,8 @@
 # Mango-SMP
 A Small Minecraft modpack designed to be light and fun.
 
-### Features & Mods:
-**A new world to explore!**
+### Capacidades y Mods:
+**Un mundo renovado sin perder la magia!**
   - William Wythers' Overhauled Overworld
   - Enderscape
   - Biome Strongholds
@@ -31,16 +32,16 @@ A Small Minecraft modpack designed to be light and fun.
   - Luki's Crazy Chambers
   - Luki's Ancient Cities
 
-**New Food to eat!**
+**Nuevas cosas para tu cocina!**
   - Farmers Delight
     - Storage Delight
 
-**New & familiar faces to fight and befriend!**
+**Nuevos enemigos para enfrontar y amaigos para domar!**
   - Friends & Foes
   - True Ending: Ender Dragon Overhaul
 
-**Inprovements & expantions on existing mechanics!**
-  - **Cambios Minecarts & Railes**
+**Mejoras y cambios a mecanicas exsitentes!**
+  - **Minecarts & Railes**
     - High Speed Rails
     - The Copper Rails
     - Rail Recipe Rebalance
@@ -54,16 +55,18 @@ A Small Minecraft modpack designed to be light and fun.
     - MasterCutter
     - Easy Magic
     - Easy Anvils
-  - Sleep Warp
-  - Comfortable Campfires
-  - Fast Item Frames
-  - Armor Statues
-  - Respawning Animals
-  - Right Click Harvest
-  - Combat Nouveau
-  - Villager Healthcare
+  - **Bloques y Entidades**
+    - Fast Item Frames
+    - Armor Statues
+    - Combat Nouveau
+    - Villager Healthcare
+  - **Mejoras pequñas**
+    - Sleep Warp
+    - Comfortable Campfires
+    - Respawning Animals
+    - Right Click Harvest
 
-  **Pequeñas novedades**
+**Pequeñas novedades**
   - Carry On
   - Lootr
   - Sit

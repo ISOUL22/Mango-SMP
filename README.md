@@ -2,16 +2,18 @@
 - [ ] Server
   - [x] Mods
   - [ ] Config
-  - [ ] World
-      - [ ] Pregen
+  - [x] World
+      - [x] Pregen
       - [x] Datapacks
   - [ ] Resourcepack
 - [ ] Client
   - [ ] Pro
       - [ ] Configs
+      - [ ] Resourcepacks
   - [ ] Air
       - [x] Remove server-only mods
-      - [ ] Prune excess config files
+      - [x] Prune excess config files
+      - [ ] Resourcepacks
 - [ ] ReadMe
   - [x] Explanation
   - [x] Which pack should I choose?
@@ -20,10 +22,12 @@
     - [x] Section GIFs
   - [ ] Tutorial
 
+---
+
 # Mango-SMP
 Un pequeño modpack que agrega pocas cosas, pero con un enfoque en calidad.
 
-# Pero que descargo?
+## Pero que descargo?
 Hay dos versiones del modpack:
 1. Mangos SMP+ AIR
    - Esta version esta diseñada para computadoras menos poderosas, por lo que solo incluye lo mas necesarsios para connectarse al servidor, mods para optimizar el juego y algunos que mejoran tu experiencia sin explotar tu pc.
@@ -48,7 +52,7 @@ Hay dos versiones del modpack:
 
 ![Info cocinando](assets/farmersDelight.gif)
 
-**Nuevos enemigos para enfrontar y amaigos para domar!**
+**Nuevos enemigos para enfrontar y amigos para conocer!**
   - Friends & Foes
   - True Ending: Ender Dragon Overhaul
 
@@ -57,10 +61,8 @@ Hay dos versiones del modpack:
 **Mejoras y cambios a mecanicas exsitentes!**
   - **Minecarts & Railes**
     - High Speed Rails
-    - The Copper Rails
     - Rail Recipe Rebalance
     - Minecart Trains
-    - Smooth Minecarts
     - I want that back
   - **Mejoras al craftear**
     - Roughly Enough Resources
@@ -73,25 +75,25 @@ Hay dos versiones del modpack:
 ![Info fumbling redstone](assets/craftingTable.gif)
 
   - **Bloques y Entidades**
+    - Comfortable Campfires
     - Fast Item Frames
     - Armor Statues
-    - Combat Nouveau
     - Villager Healthcare
-  - **Mejoras pequñas**
+    - Combat Nouveau
+  - **Mejoras del dia a dia**
     - Sleep Warp
-    - Comfortable Campfires
     - Respawning Animals
     - Right Click Harvest
 
-**Pequeñas novedades**
-  - Carry On
-  - Lootr
-  - Sit
-  - LambDynamicLights
-    - Beltborne Lanterns
-  - Plasmo Voice
-    - pv-addon-skulk
-    - pv-addon-soundphysics
+   - **Pequeñas novedades**
+     - Carry On
+     - Lootr
+     - Sit
+     - LambDynamicLights
+       - Beltborne Lanterns
+     - Plasmo Voice
+       - pv-addon-skulk
+       - pv-addon-soundphysics
 
 ---
 

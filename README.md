@@ -45,6 +45,7 @@ Hay dos versiones del modpack:
     - Revampved Shipwrecks
     - Luki's Crazy Chambers
     - Luki's Ancient Cities
+![Info explorando](assets/exploration.gif)
 
 **Nuevas cosas para tu cocina!**
   - Farmers Delight

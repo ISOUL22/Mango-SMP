@@ -1,19 +1,22 @@
 # To Do
-- [ ] Server
+- [x] Server
+  - [x] Icon & MOTD
   - [x] Mods
   - [x] Config
+    - [x] wandering trader
   - [x] World
       - [x] Pregen
       - [x] Datapacks
   - [x] Resourcepack
-- [ ] Client
-  - [ ] Pro
-      - [ ] Configs
-      - [ ] Resourcepacks
-  - [ ] Air
-      - [x] Remove server-only mods
-      - [x] Prune excess config files
-      - [ ] Resourcepacks
+- [x] Client
+  - [x] Pro
+    - [x] Configs
+    - [x] shaders
+  - [x] Air
+    - [x] Remove server-only mods
+    - [x] Prune excess config files
+  - [x] Resourcepacks
+    - [x] fix lower grass conflict
 - [ ] ReadMe
   - [x] Explanation
   - [x] Which pack should I choose?

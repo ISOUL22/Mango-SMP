@@ -4,6 +4,9 @@
   - [Pero que descargo?](#pero-que-descargo)
   - [Mods Principales:](#mods-principales)
 - [Tutorial de instalaciòn](#tutorial-de-instalaciòn)
+  - [Antes de instalar el pack, necesitaras instalar Prism Launcher](#antes-de-instalar-el-pack-necesitaras-instalar-prism-launcher)
+    - [Configuraciòn de Prism](#configuraciòn-de-prism)
+  - [Para instalar el pack por primera vez](#para-instalar-el-pack-por-primera-vez)
   - [Para actualizar](#para-actualizar)
 
 ---
@@ -86,11 +89,26 @@ Hay dos versiones del modpack:
 
 # Tutorial de instalaciòn
 
+## Antes de instalar el pack, necesitaras instalar Prism Launcher
+1. descarga [prism](https://prismlauncher.org/download/windows/)
+2. sigue los pasos del instalador
+3. en la esquina superior derecha, da clic al menu de cuentas
+4. inicia session con microsoft (no te preocupes, prism nunca guarda tus datos, solo el codigo que genera tu browser)
+### Configuraciòn de Prism
+1. en la parte superior deberias ver el buton de configuraciòn, dale clic
+2. navega a al apartado de `java`
+3. cambia el miximo de memoria a uno de estos numberos dependiando de tu sistem:
+   1. si tienes 8gb cambia el numbero a `6016`
+   2. si tienes 16gb ò màs cambia el numbero a `8064`
+4. en el mismo apartado, activa ambas de estas opciones
+   1. auto-detectar la version de java
+   2. auto-descargar mojang java
+5. en esta ventana tambièn puedes cambiar el idìoma de Prism y el aspecto de todo el app, ambas son de preferencia
+
+## Para instalar el pack por primera vez
 1. descarga el pack de [github](https://github.com/ISOUL22/Mango-SMP/releases)
-2. descarga [prism](https://prismlauncher.org/download/windows/) si no lo tienes
 3. click derecho en prism -> agregar instace from file
-4. cambiar el minimo de ram para mc, recomendamos 6-8gb
-5. abrir el juego y unirte al servidor!
+4. abrir el juego y unirte al servidor!
 
 ## Para actualizar
 1. descarga la version nueva de [github](https://github.com/ISOUL22/Mango-SMP/releases)

@@ -1,29 +1,9 @@
-# To Do
-- [x] Server
-  - [x] Icon & MOTD
-  - [x] Mods
-  - [x] Config
-    - [x] wandering trader
-  - [x] World
-      - [x] Pregen
-      - [x] Datapacks
-  - [x] Resourcepack
-- [x] Client
-  - [x] Pro
-    - [x] Configs
-    - [x] shaders
-  - [x] Air
-    - [x] Remove server-only mods
-    - [x] Prune excess config files
-  - [x] Resourcepacks
-    - [x] fix lower grass conflict
-- [ ] ReadMe
-  - [x] Explanation
-  - [x] Which pack should I choose?
-  - [x] Mod-list
-    - [ ] Mod descriptions
-    - [x] Section GIFs
-  - [ ] Tutorial
+# Lista de contenido
+- [Lista de contenido](#lista-de-contenido)
+- [Mango-SMP](#mango-smp)
+  - [Pero que descargo?](#pero-que-descargo)
+  - [Mods Principales:](#mods-principales)
+- [Tutorial:](#tutorial)
 
 ---
 
@@ -38,7 +18,7 @@ Hay dos versiones del modpack:
 2. Mangos SMP+ PRO
    - La version principal, incluye todo lo de AIR más mejoras en los graficos, sonidos, interfases, y mas. Si tienes una maquina arriba del promedio, esta es la version para ti!
 
-### Mods Principales:
+## Mods Principales:
 **Un mundo renovado sin perder la magia!**
   - William Wythers' Overhauled Overworld | *Un mundo con más variedad y profundidad sin agregar nuevos bloques al juego*
   - Enderscape | *La actualización del End que todos hemos estado esperando!*
@@ -99,7 +79,7 @@ Hay dos versiones del modpack:
        - Beltborne Lanterns | *Usa `B` para equipar una linterna en tu cinturón para liberar tu otra mano*
      - Plasmo Voice | *Chat de proximidad en Minecraft!*
        - pv-addon-skulk | *El Skulk puede escucharte hablar...*
-       - pv-addon-soundphysics | *Soporte para el mod `SoundPhysics-Remastered*
+       - pv-addon-soundphysics | *Soporte para el mod `SoundPhysics-Remastered`*
 
 ---
 

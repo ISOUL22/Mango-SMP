@@ -3,7 +3,8 @@
 - [Mango-SMP](#mango-smp)
   - [Pero que descargo?](#pero-que-descargo)
   - [Mods Principales:](#mods-principales)
-- [Tutorial:](#tutorial)
+- [Tutorial de instalaciòn](#tutorial-de-instalaciòn)
+  - [Para actualizar](#para-actualizar)
 
 ---
 
@@ -83,10 +84,17 @@ Hay dos versiones del modpack:
 
 ---
 
-# Tutorial:
+# Tutorial de instalaciòn
 
-1. descargar el zip en github
-2. descargar prism si no lo tienes
+1. descarga el pack de [github](https://github.com/ISOUL22/Mango-SMP/releases)
+2. descarga [prism](https://prismlauncher.org/download/windows/) si no lo tienes
 3. click derecho en prism -> agregar instace from file
-4. cambiar el minimo de ram para mc
-5. abrir el juego y unirte al servidor
+4. cambiar el minimo de ram para mc, recomendamos 6-8gb
+5. abrir el juego y unirte al servidor!
+
+## Para actualizar
+1. descarga la version nueva de [github](https://github.com/ISOUL22/Mango-SMP/releases)
+2. en prism, da clic derecho en tu instalaciòn del pack y haz clic en `edit`
+3. navega al area de modrinth y da clic en `update from file`
+4. en la ventana emergente de navegación de archivos, seleccione la nueva versión y haz clic `open`
+5. espera a que la actualizaciòn termine y listo!

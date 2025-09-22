@@ -1,11 +1,15 @@
-# Lista de contenido
-- [Lista de contenido](#lista-de-contenido)
+To Do:
+- [ ] export and upload v1.1 of packs
+- [ ] tutorial video(s)
+
+---
+**Lista de contenido**
 - [Mango-SMP](#mango-smp)
   - [Pero que descargo?](#pero-que-descargo)
   - [Mods Principales:](#mods-principales)
-- [Tutorial de instalaciòn](#tutorial-de-instalaciòn)
+- [Tutorial de instalación](#tutorial-de-instalación)
   - [Antes de instalar el pack, necesitaras instalar Prism Launcher](#antes-de-instalar-el-pack-necesitaras-instalar-prism-launcher)
-    - [Configuraciòn de Prism](#configuraciòn-de-prism)
+    - [Configuración de Prism](#configuración-de-prism)
   - [Para instalar el pack por primera vez](#para-instalar-el-pack-por-primera-vez)
   - [Para actualizar](#para-actualizar)
 
@@ -18,13 +22,14 @@ Este modpack esta diseñado para jugar en el servidor incluido, por lo que la ve
 ## Pero que descargo?
 Hay dos versiones del modpack:
 1. Mangos SMP+ AIR
-   - Esta version esta diseñada para computadoras menos poderosas, por lo que solo incluye lo mas necesarsios para connectarse al servidor, mods para optimizar el juego y algunos que mejoran tu experiencia sin explotar tu pc.
+   - Esta version esta diseñada para computadoras menos poderosas, por lo tanto solo incluye lo mas necesarsio para connectarse al servidor, mods para optimizar el juego y algunos que mejoran tu experiencia sin explotar tu pc.
 2. Mangos SMP+ PRO
    - La version principal, incluye todo lo de AIR más mejoras en los graficos, sonidos, interfases, y mas. Si tienes una maquina arriba del promedio, esta es la version para ti!
 
 ## Mods Principales:
 **Un mundo renovado sin perder la magia!**
   - William Wythers' Overhauled Overworld | *Un mundo con más variedad y profundidad sin agregar nuevos bloques al juego*
+  - Incendium | *Mejora y agrega nuevos biomas, agregando verticalidad y variedad al Nether*
   - Enderscape | *La actualización del End que todos hemos estado esperando!*
   - **Estructuras**
     - Explorify | *Mejoras a estructuras viejas sin que se sientan fuera de lugar*
@@ -87,32 +92,38 @@ Hay dos versiones del modpack:
 
 ---
 
-# Tutorial de instalaciòn
+# Tutorial de instalación
 
 ## Antes de instalar el pack, necesitaras instalar Prism Launcher
 1. descarga [prism](https://prismlauncher.org/download/windows/)
-2. sigue los pasos del instalador
-3. en la esquina superior derecha, da clic al menu de cuentas
-4. inicia session con microsoft (no te preocupes, prism nunca guarda tus datos, solo el codigo que genera tu browser)
-### Configuraciòn de Prism
-1. en la parte superior deberias ver el buton de configuraciòn, dale clic
-2. navega a al apartado de `java`
-3. cambia el miximo de memoria a uno de estos numberos dependiando de tu sistem:
-   1. si tienes 8gb cambia el numbero a `6016`
-   2. si tienes 16gb ò màs cambia el numbero a `8064`
-4. en el mismo apartado, activa ambas de estas opciones
-   1. auto-detectar la version de java
-   2. auto-descargar mojang java
-5. en esta ventana tambièn puedes cambiar el idìoma de Prism y el aspecto de todo el app, ambas son de preferencia
+2. si prism te dice que necesitas instalar java descarga el `.msi` desde este [link](https://adoptium.net/temurin/releases/?arch=any&os=windows&package=jre&version=24&mode=filter) y sigue los pasos del instalador (estas instruciones son para Windows)
+3. sigue los pasos del instalador
+4. en la esquina superior derecha, da clic al menu de cuentas
+5. inicia session con microsoft (no te preocupes, prism nunca guarda tus datos, solo el codigo que genera tu browser)
+
+### Configuración de Prism
+1. en la parte superior deberias ver el buton de ajustes, dale clic
+2. cambia el idioma a español si no lo hiciste en la instalación
+3. navega al apartado de `java`
+4. cambia el maximo de memoria a uno de estos numberos dependiando de tu sistem:
+   1. si tu pc tiene 8gb cambia el numbero a `6016`
+   2. si tu pc tiene 16gb ó más cambia el numbero a `8064`
+5. en el mismo apartado, activa ambas de estas opciones
+   1. `Detectar automáticamente la versión de Java`
+   2. `Auto-descarga Mojang Java`
+6. en el apartado de `Launcher` puedes cambiar el aspecto de todo el app a tu gusto
 
 ## Para instalar el pack por primera vez
 1. descarga el pack de [github](https://github.com/ISOUL22/Mango-SMP/releases)
-3. click derecho en prism -> agregar instace from file
-4. abrir el juego y unirte al servidor!
+2. en la esquina superior izquierda, dale clic as buton de `añadir instancia`
+3. navega al apartado de `importar`
+4. haz clic en `navegar` y seleciona el folder que descargaste de github
+5. espera a que terminé la instalación
+6. abre el juego y unete al servidor!
 
 ## Para actualizar
 1. descarga la version nueva de [github](https://github.com/ISOUL22/Mango-SMP/releases)
-2. en prism, da clic derecho en tu instalaciòn del pack y haz clic en `edit`
+2. en prism, da clic derecho en tu instalación del pack y haz clic en `edit`
 3. navega al area de modrinth y da clic en `update from file`
 4. en la ventana emergente de navegación de archivos, seleccione la nueva versión y haz clic `open`
-5. espera a que la actualizaciòn termine y listo!
+5. espera a que la actualización termine y listo!

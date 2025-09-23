@@ -1,6 +1,10 @@
 To Do:
-- [ ] export and upload v1.1 of packs
 - [ ] tutorial video(s)
+- [ ] reduced debug info?
+  - [x] check compat with better f3
+  - [x] map atlas
+    - [x] cheaper map recipe
+  - [x] test lodestone locator bar
 
 ---
 **Lista de contenido**
@@ -67,22 +71,25 @@ Hay dos versiones del modpack:
     - Easy Magic | *Mejora la tabla de encantamiento, permitiéndole sostener items en su inventario y hace refrescar los encantamientos as más facil*
     - Easy Anvils | *Mejora el yunque dejándolo mantener items en su inventario y te permite cambiar el nombre de las cosas de forma gratuita*
   - **Mochilas?**
-    - Immersive Overlays | *Agrega texto a tu pantalla cuando tienes una brújula ó un reloj en tu inventario, funciona con bundles!*
     - Bundle as Quiver | *Tome flechas y fuegos artificiales directamente de tus bundles!*
     - Bundled | *Te permite meter hasta 4 herramientas dentro de un bundle*
     - Don't Hide My Items | *Mejora el tooltip para el bundle*
+  - **Mapas**
+    - Improved Maps | *Agrega un atlas para administrar tus mapas mientras exploras*
+    - Cheaper Maps | *Cambia la receta del mapa para usar tinte negro en lugar de una brújula*
 
 ![Info fumbling redstone](assets/craftingTable.gif)
 
-  - **Bloques y Entidades**
+  - **Bloques**
     - Comfortable Campfires | *Agrega un efecto confortante a las fogatas, desacelerando el consumo de comida*
     - Fast Item Frames | *Hace que los itemframes sean menos laggy y te permite teñirlos*
     - Shelves | *Agrega los nuevos estantes de la próxima caída de otoño*
     - Enchanted Bookshelves | *Te permite ver cuales libros en tu estante estan encantados*
+  - **Entidades**
     - Armor Statues | *Agrega una interfaz que te permite acomodar fácilmente estantes de armadura como quieras*
     - Villager Healthcare | *Permite clérigos y herreros sanar a otros aldeanos y golems de hierro respectivamente*
-    - Combat Nouveau | *Implementa las pruebas de combate de Mojang con algunos pequeños cambios para mejorar el equilibrio y la conviniencia*
     - Persistent Parrots *Hace que tus loros se queden en tu hombro en mas situaciones*
+    - Combat Nouveau | *Implementa las pruebas de combate de Mojang con algunos pequeños cambios para mejorar el equilibrio y la conviniencia*
   - **Mejoras del dia a dia**
     - Sleep Warp | *Una forma más inmersiva de saltar la noche*
     - Respawning Animals | *Makes passive mobs behave like hostile mobs*

@@ -5,6 +5,10 @@ To Do:
   - [x] map atlas
     - [x] cheaper map recipe
   - [x] test lodestone locator bar
+- [ ] export and upload v1.2
+  - [ ] copy PRO's REI config to air
+  - [ ] make a list of modefied config files
+    - [ ] copy those to defaultconfig folder and only include that in modpack file
 
 ---
 **Lista de contenido**
@@ -111,7 +115,7 @@ Hay dos versiones del modpack:
 
 ## Antes de instalar el pack, necesitaras instalar Prism Launcher
 1. descarga [prism](https://prismlauncher.org/download/windows/)
-2. si prism te dice que necesitas instalar java descarga el `.msi` desde este [link](https://adoptium.net/temurin/releases/?arch=any&os=windows&package=jre&version=24&mode=filter) y sigue los pasos del instalador (estas instruciones son para Windows)
+2. si prism te dice que necesitas instalar Java descarga el `.msi` desde este [link](https://adoptium.net/temurin/releases/?arch=any&os=windows&package=jre&version=24&mode=filter) y sigue los pasos del instalador (estas instruciones son para Windows)
 3. sigue los pasos del instalador
 4. en la esquina superior derecha, da clic al menu de cuentas
 5. inicia session con microsoft (no te preocupes, prism nunca guarda tus datos, solo el codigo que genera tu browser)
@@ -119,7 +123,7 @@ Hay dos versiones del modpack:
 ### Configuración de Prism
 1. en la parte superior deberias ver el buton de ajustes, dale clic
 2. cambia el idioma a español si no lo hiciste en la instalación
-3. navega al apartado de `java`
+3. navega al apartado de `Java`
 4. cambia el maximo de memoria a uno de estos numberos dependiando de tu sistem:
    1. si tu pc tiene 8gb cambia el numbero a `6016`
    2. si tu pc tiene 16gb ó más cambia el numbero a `8064`

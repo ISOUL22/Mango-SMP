@@ -1,12 +1,14 @@
-# To Do & Change Log
+# To Do & Change Log v1.4
 ## Air
 **Resourcepacks**
+
 **Mods**
 - [x] added Connectable Chains
 - [x] added Trade Cycling
 - [x] added Fast Boot
 ## Pro
 **Resourcepacks**
+
 **Mods**
 - [x] added Capes
 - [x] added Wakes
@@ -14,10 +16,11 @@
 - [x] added Trade Cycling
 - [x] added Boids
 - [x] added Crops Love Rain
-- [ ] added Fast Boot
+- [x] added Fast Boot
 ## Server
 **Resourcepacks**
 - [x] updated polymer resources
+
 **Mods**
 - [x] added Connectable Chains
 - [x] added Trade Cycling
@@ -26,7 +29,7 @@
 ---
 
 **Lista de contenido**
-- [To Do \& Change Log](#to-do--change-log)
+- [To Do \& Change Log v1.4](#to-do--change-log-v14)
   - [Air](#air)
   - [Pro](#pro)
   - [Server](#server)

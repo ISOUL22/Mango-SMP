@@ -1,14 +1,3 @@
-To Do:
-- [ ] tutorial video(s)
-- [ ] reduced debug info?
-  - [x] check compat with better f3
-  - [x] map atlas
-    - [x] cheaper map recipe
-  - [x] test lodestone locator bar
-- [x] export and upload v1.2
-  - [x] copy PRO's REI config to air
-
----
 **Lista de contenido**
 - [Mango-SMP](#mango-smp)
   - [Pero que descargo?](#pero-que-descargo)
@@ -104,7 +93,7 @@ Hay dos versiones del modpack:
      - LambDynamicLights | *Actualiza dinámicamente la luz alrededor del jugador al sostener una fuente de luz*
        - Beltborne Lanterns | *Usa `B` para equipar una linterna en tu cinturón para liberar tu otra mano*
      - Plasmo Voice | *Chat de proximidad en Minecraft!*
-       - pv-addon-skulk | *El Skulk puede escucharte hablar...*
+       - pv-addon-skulk | *El Skulk te escucha...*
        - pv-addon-soundphysics | *Soporte para el mod `SoundPhysics-Remastered`*
 
 ---

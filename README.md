@@ -1,17 +1,10 @@
-To Do:
-  - [x] dh in air is set to max, FIX THIS
-  - [x] upgrade default options to 21.8.4
-  - [x] update mods
-  - [x] export and upload v1.3
-    - [x] find out how to make a github release lol
-
 **Lista de contenido**
 - [Mango-SMP](#mango-smp)
   - [Pero que descargo?](#pero-que-descargo)
   - [Mods Principales:](#mods-principales)
 - [Tutorial de instalación](#tutorial-de-instalación)
   - [Antes de instalar el pack, necesitaras instalar Prism Launcher](#antes-de-instalar-el-pack-necesitaras-instalar-prism-launcher)
-    - [Configuración de Prism](#configuración-de-prism)
+    - [Configuración de Prism (Opcional)](#configuración-de-prism-opcional)
   - [Para instalar el pack por primera vez](#para-instalar-el-pack-por-primera-vez)
   - [Para actualizar](#para-actualizar)
 
@@ -109,27 +102,29 @@ Hay dos versiones del modpack:
 
 ## Antes de instalar el pack, necesitaras instalar Prism Launcher
 1. dale clic aqui para descargar -> [prism](https://prismlauncher.org/download/windows/) (descarga el `.exe` para windows)
-2. si prism te dice que necesitas instalar Java descarga el `.msi` desde este [link](https://adoptium.net/temurin/releases/?arch=any&os=windows&package=jre&version=24&mode=filter) y sigue los pasos del instalador (estas instruciones son para Windows)
+2. si prism te dice que necesitas instalar Java descarga el `.msi` desde este [link](https://adoptium.net/temurin/releases/?arch=any&os=windows&package=jre&version=24&mode=filter) (estas instruciones son para Windows)
 3. sigue los pasos del instalador
 
-### Configuración de Prism
+### Configuración de Prism (Opcional)
 1. en la parte superior deberias ver el buton de ajustes, dale clic
 2. cambia el idioma a español si no lo hiciste en la instalación
 3. navega al apartado de `Java`
 4. cambia el maximo de memoria a uno de estos numberos dependiando de tu sistem:
    1. si tu pc tiene 8gb no tienes que hacer nada, el predeterminado es suficiente
    2. si tu pc tiene 16gb ó más cambia el numbero a `8064`
+![](assets/ramSettings.png)
 
 ## Para instalar el pack por primera vez
-1. descarga el pack de [github](https://github.com/ISOUL22/Mango-SMP/releases)
+1. descarga el pack desde este [link](https://github.com/ISOUL22/Mango-SMP/releases)
 2. en la esquina superior izquierda, dale clic as buton de `añadir instancia`
 3. navega al apartado de `importar`
 4. haz clic en `navegar` y seleciona el folder que descargaste de github
 5. espera a que terminé la instalación
 6. abre el juego y unete al servidor!
+![](assets/addInstance.png)
 
 ## Para actualizar
-1. descarga la version nueva de [github](https://github.com/ISOUL22/Mango-SMP/releases)
+1. descarga la version nueva desde este [link](https://github.com/ISOUL22/Mango-SMP/releases)
 2. en prism, da clic derecho en tu instalación del pack y haz clic en `editar`
 3. navega al area de modrinth y da clic en `actualizar desde archivo`
 4. en la ventana emergente de navegación de archivos, seleccione la nueva versión y haz clic `abrir`

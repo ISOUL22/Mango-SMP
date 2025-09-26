@@ -1,4 +1,35 @@
+# To Do & Change Log
+## Air
+**Resourcepacks**
+**Mods**
+- [x] added Connectable Chains
+- [x] added Trade Cycling
+- [x] added Fast Boot
+## Pro
+**Resourcepacks**
+**Mods**
+- [x] added Capes
+- [x] added Wakes
+- [x] added Connectable Chains
+- [x] added Trade Cycling
+- [x] added Boids
+- [x] added Crops Love Rain
+- [ ] added Fast Boot
+## Server
+**Resourcepacks**
+- [x] updated polymer resources
+**Mods**
+- [x] added Connectable Chains
+- [x] added Trade Cycling
+- [x] added Boids
+- [x] added Crops Love Rain
+---
+
 **Lista de contenido**
+- [To Do \& Change Log](#to-do--change-log)
+  - [Air](#air)
+  - [Pro](#pro)
+  - [Server](#server)
 - [Mango-SMP](#mango-smp)
   - [Pero que descargo?](#pero-que-descargo)
   - [Mods Principales:](#mods-principales)

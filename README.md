@@ -5,10 +5,8 @@ To Do:
   - [x] map atlas
     - [x] cheaper map recipe
   - [x] test lodestone locator bar
-- [ ] export and upload v1.2
-  - [ ] copy PRO's REI config to air
-  - [ ] make a list of modefied config files
-    - [ ] copy those to defaultconfig folder and only include that in modpack file
+- [x] export and upload v1.2
+  - [x] copy PRO's REI config to air
 
 ---
 **Lista de contenido**

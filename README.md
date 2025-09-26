@@ -1,3 +1,10 @@
+To Do:
+  - [x] dh in air is set to max, FIX THIS
+  - [x] upgrade default options to 21.8.4
+  - [x] update mods
+  - [x] export and upload v1.3
+    - [x] find out how to make a github release lol
+
 **Lista de contenido**
 - [Mango-SMP](#mango-smp)
   - [Pero que descargo?](#pero-que-descargo)
@@ -101,23 +108,17 @@ Hay dos versiones del modpack:
 # Tutorial de instalación
 
 ## Antes de instalar el pack, necesitaras instalar Prism Launcher
-1. descarga [prism](https://prismlauncher.org/download/windows/)
+1. dale clic aqui para descargar -> [prism](https://prismlauncher.org/download/windows/) (descarga el `.exe` para windows)
 2. si prism te dice que necesitas instalar Java descarga el `.msi` desde este [link](https://adoptium.net/temurin/releases/?arch=any&os=windows&package=jre&version=24&mode=filter) y sigue los pasos del instalador (estas instruciones son para Windows)
 3. sigue los pasos del instalador
-4. en la esquina superior derecha, da clic al menu de cuentas
-5. inicia session con microsoft (no te preocupes, prism nunca guarda tus datos, solo el codigo que genera tu browser)
 
 ### Configuración de Prism
 1. en la parte superior deberias ver el buton de ajustes, dale clic
 2. cambia el idioma a español si no lo hiciste en la instalación
 3. navega al apartado de `Java`
 4. cambia el maximo de memoria a uno de estos numberos dependiando de tu sistem:
-   1. si tu pc tiene 8gb cambia el numbero a `6016`
+   1. si tu pc tiene 8gb no tienes que hacer nada, el predeterminado es suficiente
    2. si tu pc tiene 16gb ó más cambia el numbero a `8064`
-5. en el mismo apartado, activa ambas de estas opciones
-   1. `Detectar automáticamente la versión de Java`
-   2. `Auto-descarga Mojang Java`
-6. en el apartado de `Launcher` puedes cambiar el aspecto de todo el app a tu gusto
 
 ## Para instalar el pack por primera vez
 1. descarga el pack de [github](https://github.com/ISOUL22/Mango-SMP/releases)
@@ -129,7 +130,7 @@ Hay dos versiones del modpack:
 
 ## Para actualizar
 1. descarga la version nueva de [github](https://github.com/ISOUL22/Mango-SMP/releases)
-2. en prism, da clic derecho en tu instalación del pack y haz clic en `edit`
-3. navega al area de modrinth y da clic en `update from file`
-4. en la ventana emergente de navegación de archivos, seleccione la nueva versión y haz clic `open`
+2. en prism, da clic derecho en tu instalación del pack y haz clic en `editar`
+3. navega al area de modrinth y da clic en `actualizar desde archivo`
+4. en la ventana emergente de navegación de archivos, seleccione la nueva versión y haz clic `abrir`
 5. espera a que la actualización termine y listo!

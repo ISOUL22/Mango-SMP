@@ -1,31 +1,69 @@
 # To Do & Change Log v1.4
 ## Air
 **Resourcepacks**
+- [x] added Cleaner weather, idk something that makes rain nice
 
 **Mods**
-- [x] added Connectable Chains
-- [x] added Trade Cycling
-- [x] added Fast Boot
+- [x] added Fast Boot *client*
+- [x] added Audio Engine Tweaks *client*
+- [x] added ScalableLux *client*
+- [x] added Leave My Bars Alone *client*
+- [x] added Client Maps *client*
+- [x] added Map in Slot *client*
+- [x] added Connectable Chains *both*
+- [x] added Trade Cycling *both*
+- [x] switch to simple voice chat *both*
+**Config**
+- [x] Sound Physics Remastered
+  - [x] enabled revaluted moving sounds, and set the interval to 10
+
 ## Pro
 **Resourcepacks**
 
 **Mods**
-- [x] added Capes
-- [x] added Wakes
-- [x] added Connectable Chains
-- [x] added Trade Cycling
-- [x] added Boids
-- [x] added Crops Love Rain
-- [x] added Fast Boot
+- [x] removed Cool Rain *client*
+---
+- [x] added Capes *client*
+- [x] added Wakes *client*
+- [x] added Fast Boot *client*
+- [x] added Audio Engine Tweaks *client*
+- [x] added Client Maps *client*
+- [x] added Map in Slot *client*
+- [x] added Simple RPC *client*
+  - [x] need to set this up
+- [x] added Atmosphera *client*
+- [x] added ScalableLux *client*
+- [x] added Leave My Bars Alone *client*
+- [x] added Copy Screenshot to CLipboard *client*
+- [x] added Boids *server*
+- [x] remove Crops Love Rain *server*
+- [x] switch to simple voice chat *both*
+  - [x] added Simple Voice Chat Enhanced Groups *server*
+- [x] added Connectable Chains *both*
+- [x] added Trade Cycling *both*
+**Config**
+- [x] Sublte Effects
+  - [x] make item drop particle only apply to rare items
+  - [x] disable snoring
+- [x] Sound Physics Remastered
+  - [x] enabled revaluted moving sounds, and set the interval to 20
+
 ## Server
 **Resourcepacks**
 - [x] updated polymer resources
-
+  - [ ] idk what is going on with this, check the docs
+  - [x] maybe this is causing item frames to not show their item?
+**Datapacks**
+- [x] added charcoal to black dye recipe
 **Mods**
 - [x] added Connectable Chains
 - [x] added Trade Cycling
 - [x] added Boids
-- [x] added Crops Love Rain
+- [x] remove Crops Love Rain
+- [x] switch to simple voice chat
+  - [x] voice chat interaction
+  - [x] enhanced groups
+  - [x] radio
 ---
 
 **Lista de contenido**

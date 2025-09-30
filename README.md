@@ -47,6 +47,8 @@
   - [x] disable snoring
 - [x] Sound Physics Remastered
   - [x] enabled revaluted moving sounds, and set the interval to 20
+- [x] Particle Rain
+  - [x] max particles 1500 -> 750
 
 ## Server
 **Resourcepacks**

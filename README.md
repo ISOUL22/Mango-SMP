@@ -1,3 +1,21 @@
+To Do v1.5
+deletions
+- [ ] remove improved maps
+- [ ] remove any polymer leftovers
+- [ ] remove the server resourcepack cache mod
+- [ ] 
+
+additions
+- [ ] find a map mod
+  - [ ] xaeros world map, no minimap?
+- [ ] backpack of some sort?
+- [ ] check for copper golem backports
+- [ ] 
+
+general
+- [ ] update mods
+
+---
 **Lista de contenido**
 - [Mango-SMP](#mango-smp)
   - [Pero que descargo?](#pero-que-descargo)

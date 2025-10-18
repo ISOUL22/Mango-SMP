@@ -1,21 +1,4 @@
-To Do v1.5
-deletions
-- [ ] remove improved maps
-- [ ] remove any polymer leftovers
-- [ ] remove the server resourcepack cache mod
-- [ ] 
 
-additions
-- [ ] find a map mod
-  - [ ] xaeros world map, no minimap?
-- [ ] backpack of some sort?
-- [ ] check for copper golem backports
-- [ ] 
-
-general
-- [ ] update mods
-
----
 **Lista de contenido**
 - [Mango-SMP](#mango-smp)
   - [Pero que descargo?](#pero-que-descargo)
@@ -79,12 +62,13 @@ Hay dos versiones del modpack:
     - MasterCutter | *Agrega toneladas de recetas al stonecutter, lo que le permite crear bloques de madera y otros cambios de calidad de vida*
     - Easy Magic | *Mejora la tabla de encantamiento, permitiéndole sostener items en su inventario y hace refrescar los encantamientos as más facil*
     - Easy Anvils | *Mejora el yunque dejándolo mantener items en su inventario y te permite cambiar el nombre de las cosas de forma gratuita*
-  - **Mochilas?**
+  - **Mas espacio para tus cosas!**
+    - Mochila | *Agrega mochilas mejorables, que se pueden teñir y vaciar rápidamente en un cofre.*
+    - Easy Shulkerboxes | *Mejora las shulkerboxes, bundles, y enderchests con tooltips*
     - Bundle as Quiver | *Tome flechas y fuegos artificiales directamente de tus bundles!*
-    - Bundled | *Te permite meter hasta 4 herramientas dentro de un bundle*
-    - Don't Hide My Items | *Mejora el tooltip para el bundle*
+    - Bundled | *Te permite guardar hasta 4 herramientas dentro de un bundle*
   - **Mapas**
-    - Improved Maps | *Agrega un atlas para administrar tus mapas mientras exploras*
+    - Xaero's World Map & Minimap | *Agrega un mapa dinámico del mundo*
     - Cheaper Maps | *Cambia la receta del mapa para usar tinte negro en lugar de una brújula*
 
 ![Info fumbling redstone](assets/craftingTable.gif)
@@ -93,6 +77,7 @@ Hay dos versiones del modpack:
     - Comfortable Campfires | *Agrega un efecto confortante a las fogatas, desacelerando el consumo de comida*
     - Fast Item Frames | *Hace que los itemframes sean menos laggy y te permite teñirlos*
     - Shelves | *Agrega los nuevos estantes de la próxima caída de otoño*
+    - Vanilla Shutters | *Agrega "trapdoors verticales"*
     - Enchanted Bookshelves | *Te permite ver cuales libros en tu estante estan encantados*
   - **Entidades**
     - Armor Statues | *Agrega una interfaz que te permite acomodar fácilmente estantes de armadura como quieras*
@@ -103,6 +88,7 @@ Hay dos versiones del modpack:
     - Sleep Warp | *Una forma más inmersiva de saltar la noche*
     - Respawning Animals | *Makes passive mobs behave like hostile mobs*
     - Right Click Harvest | *Te permite usar una azada para cosechar en un área y los replanta automáticamente*
+    - Quick Right-Click | *Utilice rápidamente una crafting table, una cama, etc.*
 
    - **Pequeñas novedades**
      - Carry On | *Una forma inmersiva de transportar animales y cofres*
@@ -110,9 +96,7 @@ Hay dos versiones del modpack:
      - Sit | *Te permite sentarte en escaleras y losas*
      - LambDynamicLights | *Actualiza dinámicamente la luz alrededor del jugador al sostener una fuente de luz*
        - Beltborne Lanterns | *Usa `B` para equipar una linterna en tu cinturón para liberar tu otra mano*
-     - Plasmo Voice | *Chat de proximidad en Minecraft!*
-       - pv-addon-skulk | *El Skulk te escucha...*
-       - pv-addon-soundphysics | *Soporte para el mod `SoundPhysics-Remastered`*
+     - Simple Voice | *Chat de proximidad en Minecraft!*
 
 ---
 

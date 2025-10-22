@@ -1,13 +1,12 @@
 
 ---
-
+# v1.5 Changelog
 _server crashes fixed_
 
 _new age navigation in hand_
 
 _our pockets expanded_
 
-# v1.5 Changelog
 ## SERVER
 ### Added:
 - Library

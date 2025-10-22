@@ -1,8 +1,14 @@
-- [Update to v1.5](#update-to-v15)
+- [Update v1.5.1](#update-v151)
+- [Update v1.5](#update-v15)
 
 ---
 
-# Update to v1.5
+# Update v1.5.1
+- [ ] make capes(mod) include all cape providers by default
+
+---
+
+# Update v1.5
 - [x] server
   - [x] mods
   - [x] config

@@ -1,16 +1,19 @@
+- [Update to v1.5](#update-to-v15)
+
+---
 
 # Update to v1.5
-- [ ] server
+- [x] server
   - [x] mods
   - [x] config
   - [x] clean up
     - [x] resources
-  - [ ] backup world locally
+  - [x] backup world locally
 - [ ] client
-  - [ ] export
-    - [ ] air
-    - [ ] pro
-  - [ ] upload to github
+  - [x] export
+    - [x] air
+    - [x] pro
+  - [x] upload to github
     - [ ] merge v1 to main
       - [ ] include changelog
 - [ ] discord

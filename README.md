@@ -129,5 +129,5 @@ Hay dos versiones del modpack:
 1. descarga la version nueva desde este [link](https://github.com/ISOUL22/Mango-SMP/releases)
 2. en prism, da clic derecho en tu instalación del pack y haz clic en `editar`
 3. navega al area de modrinth y da clic en `actualizar desde archivo`
-4. en la ventana emergente de navegación de archivos, seleccione la nueva versión y haz clic `abrir`
+4. en la ventana de navegación de archivos, selecciona la nueva versión y haz clic en `abrir`
 5. espera a que la actualización termine y listo!

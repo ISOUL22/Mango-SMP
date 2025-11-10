@@ -1,11 +1,49 @@
-- [Update v1.5.1](#update-v151)
+- [Update v1.6](#update-v16)
 - [Update v1.5](#update-v15)
 
 ---
 
-# Update v1.5.1
-- [ ] make capes(mod) include all cape providers by default
-
+# Update v1.6
+- [x] make capes(mod) include all cape providers by default p
+- [ ] make sure map data is not deleted on updates
+- [x] fix server ip not updating automatically
+- [x] new mods
+  - [x] server
+    - [x] trident all weather channeling sp
+    - [x] servux s
+    - [x] elytra revamped sp
+    - [x] infinities sp
+  - [x] server & client
+    - [x] more delight spa
+    - [x] crate delight spa
+    - [x] trimable tools spa
+    - [x] elytra trims spa
+    - [x] kitchen projectiles spa
+    - [x] better tridents spa
+  - [x] client
+    - [x] boat item view pa
+    - [x] riptide depth strider fix pa
+    - [x] item descriptions, in favor of the wiki lookup mod pa
+      - [x] Idwtialsimmoedm (enchant descriptions) pa
+- [x] updated mods
+  - [x] Subtle Effects
+  - [x] Particle Rain
+  - [x] Optiboxes
+  - [x] Inventory Profiles next
+  - [x] Controlify
+  - [x] Locator Lodestones
+  - [x] LambDynamicLights
+  - [x] Substrate
+  - [x] Enderscape
+  - [x] Friends&Foes
+  - [x] Fabric Language Kotlin
+  - [x] Luki's Ancient Cities
+  - [x] Structure Layout Optimizer
+  - [x] Farmer's Delight
+  - [x] libIPN
+  - [x] AdvancedLootInfo
+  - [x] Beltborne Lanterns
+  - [x] Cristel Lib
 ---
 
 # Update v1.5
@@ -15,12 +53,12 @@
   - [x] clean up
     - [x] resources
   - [x] backup world locally
-- [ ] client
+- [x] client
   - [x] export
     - [x] air
     - [x] pro
   - [x] upload to github
-    - [ ] merge v1 to main
-      - [ ] include changelog
-- [ ] discord
-  - [ ] update anouncement 
+    - [x] merge v1 to main
+      - [x] include changelog
+- [x] discord
+  - [x] update anouncement

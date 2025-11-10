@@ -1,4 +1,9 @@
 # v1.5 Changelog
+_server crashes fixed_
+
+_new age navigation in hand_
+
+_our pockets expanded_
 ## SERVER
 ### Added:
 - Library
@@ -34,7 +39,7 @@
   - Incendium
   - True Ending: Ender Dragon Overhaul
 
-## PRO v1.5 Changelog
+## PRO
 ### Added:
 - Library
   - Amber
@@ -95,7 +100,7 @@
 - Replaced Golden apple textures with a mango, previously a server side feature
 - Resource pack order
 
-## AIR v1.5 Changelog
+## AIR
 ### Added:
 - Library
   - Amber

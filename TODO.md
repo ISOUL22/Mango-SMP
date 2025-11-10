@@ -9,22 +9,22 @@
 - [x] fix server ip not updating automatically
 - [x] new mods
   - [x] server
-    - [x] trident all weather channeling sp
-    - [x] servux s
-    - [x] elytra revamped sp
-    - [x] infinities sp
+    - [x] trident all weather channeling
+    - [x] servux
+    - [x] elytra revamped
+    - [x] infinities
   - [x] server & client
-    - [x] more delight spa
-    - [x] crate delight spa
-    - [x] trimable tools spa
-    - [x] elytra trims spa
-    - [x] kitchen projectiles spa
-    - [x] better tridents spa
+    - [x] more delight
+    - [x] crate delight
+    - [x] trimable too
+    - [x] elytra trims
+    - [x] kitchen projectiles
+    - [x] better tridents
   - [x] client
-    - [x] boat item view pa
-    - [x] riptide depth strider fix pa
-    - [x] item descriptions, in favor of the wiki lookup mod pa
-      - [x] Idwtialsimmoedm (enchant descriptions) pa
+    - [x] boat item view
+    - [x] riptide depth strider fix
+    - [x] item descriptions, in favor of Hey Wiki mod
+      - [x] Idwtialsimmoedm (enchant descriptions)
 - [x] updated mods
   - [x] Subtle Effects
   - [x] Particle Rain
@@ -44,6 +44,8 @@
   - [x] AdvancedLootInfo
   - [x] Beltborne Lanterns
   - [x] Cristel Lib
+- [x] removed mods
+  - [x] Hey Hiki
 ---
 
 # Update v1.5

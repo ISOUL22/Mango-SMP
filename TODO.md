@@ -4,11 +4,15 @@
 ---
 
 # Update v1.6
-- [x] make capes(mod) include all cape providers by default p
-- [ ] make sure map data is not deleted on updates
-- [x] fix server ip not updating automatically
-- [x] trim item resourcepack
-- [ ] calcite recipe
+- [ ] fixes and config changes
+  - [x] make capes(mod) include all cape providers by default p
+  - [ ] make sure map data is not deleted on updates
+  - [x] fix server ip not updating automatically
+- [x] resourcepacks
+  - [x] visual: armor trims
+- [ ] datapack changes
+  - [ ] mochila and easy shulker boxes compat
+  - [ ] calcite recipe
 - [x] new mods
   - [x] server
     - [x] trident all weather channeling

@@ -7,12 +7,18 @@
 - [x] make capes(mod) include all cape providers by default p
 - [ ] make sure map data is not deleted on updates
 - [x] fix server ip not updating automatically
+- [x] trim item resourcepack
+- [ ] calcite recipe
 - [x] new mods
   - [x] server
     - [x] trident all weather channeling
     - [x] servux
     - [x] elytra revamped
     - [x] infinities
+    - [x] mounts stay still
+    - [x] call your horse
+    - [x] call your dog
+    - [x] nice swimming mounts
   - [x] server & client
     - [x] more delight
     - [x] crate delight
@@ -24,7 +30,7 @@
     - [x] boat item view
     - [x] riptide depth strider fix
     - [x] item descriptions, in favor of Hey Wiki mod
-      - [x] Idwtialsimmoedm (enchant descriptions)
+      - [x] Idwtialsimmoedm (enchant and effect descriptions)
 - [x] updated mods
   - [x] Subtle Effects
   - [x] Particle Rain

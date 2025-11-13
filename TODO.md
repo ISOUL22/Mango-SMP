@@ -9,24 +9,23 @@
   - [ ] make sure map data is not deleted on updates
   - [x] fix server ip not updating automatically
 - [x] resourcepacks
-  - [x] visual: armor trims
-- [ ] datapack changes
-  - [ ] mochila and easy shulker boxes compat
-  - [ ] calcite recipe
+  - [x] Visual: Armor Trims
+  - [x] Soft Weather
+- [x] datapack changes
+  - [x] mochila and easy shulker boxes compat
+  - [x] calcite recipe
 - [x] new mods
   - [x] server
-    - [x] trident all weather channeling
     - [x] servux
     - [x] elytra revamped
     - [x] infinities
     - [x] mounts stay still
     - [x] call your horse
-    - [x] call your dog
     - [x] nice swimming mounts
   - [x] server & client
     - [x] more delight
     - [x] crate delight
-    - [x] trimable too
+    - [x] trimable tools
     - [x] elytra trims
     - [x] kitchen projectiles
     - [x] better tridents
@@ -56,6 +55,7 @@
   - [x] Cristel Lib
 - [x] removed mods
   - [x] Hey Hiki
+  - [x] Particle Rain
 ---
 
 # Update v1.5

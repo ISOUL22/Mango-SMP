@@ -1,3 +1,22 @@
+# v1.5.1 Changelog
+_old weapons improved_
+
+_loyal steads come at your call_
+
+_flight changed forever_
+## SERVER
+### Added:
+- Mod
+  - Servux
+  - Elytra Revamped
+  - Infinities
+  - Mounts Stay Still
+  - Call Your Horse
+  - Nice Swimming Mounts
+
+
+---
+
 # v1.5 Changelog
 _server crashes fixed_
 

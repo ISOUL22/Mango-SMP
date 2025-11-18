@@ -1,4 +1,5 @@
 - [Update v1.6](#update-v16)
+- [Update v1.5.1](#update-v151)
 - [Update v1.5](#update-v15)
 
 ---
@@ -11,17 +12,9 @@
 - [x] resourcepacks
   - [x] Visual: Armor Trims
   - [x] Soft Weather
-- [x] datapack changes
-  - [x] mochila and easy shulker boxes compat
-  - [x] calcite recipe
+- [ ] datapack changes
 - [x] new mods
-  - [x] server
-    - [x] servux
-    - [x] elytra revamped
-    - [x] infinities
-    - [x] mounts stay still
-    - [x] call your horse
-    - [x] nice swimming mounts
+  - [ ] server
   - [x] server & client
     - [x] more delight
     - [x] crate delight
@@ -35,27 +28,44 @@
     - [x] item descriptions, in favor of Hey Wiki mod
       - [x] Idwtialsimmoedm (enchant and effect descriptions)
 - [x] updated mods
-  - [x] Subtle Effects
-  - [x] Particle Rain
-  - [x] Optiboxes
-  - [x] Inventory Profiles next
-  - [x] Controlify
-  - [x] Locator Lodestones
-  - [x] LambDynamicLights
-  - [x] Substrate
-  - [x] Enderscape
-  - [x] Friends&Foes
-  - [x] Fabric Language Kotlin
-  - [x] Luki's Ancient Cities
-  - [x] Structure Layout Optimizer
-  - [x] Farmer's Delight
-  - [x] libIPN
-  - [x] AdvancedLootInfo
-  - [x] Beltborne Lanterns
-  - [x] Cristel Lib
+  - [ ] server
+    - [x] Luki's Ancient Cities
+    - [x] Structure Layout Optimizer
+  - [ ] server & client
+    - [x] Enderscape
+    - [x] Friends&Foes
+    - [x] Farmer's Delight
+    - [x] Fabric Language Kotlin
+    - [x] AdvancedLootInfo
+    - [x] Cristel Lib
+    - [x] Beltborne Lanterns
+  - [ ] client
+    - [x] Subtle Effects
+    - [x] Particle Rain
+    - [x] Optiboxes
+    - [x] Inventory Profiles next
+    - [x] Controlify
+    - [x] Locator Lodestones
+    - [x] LambDynamicLights
+    - [x] Substrate
+    - [x] libIPN
 - [x] removed mods
   - [x] Hey Hiki
   - [x] Particle Rain
+---
+
+# Update v1.5.1
+- [x] datapack changes
+  - [x] mochila and easy shulker boxes compat
+  - [x] calcite recipe
+- [x] new mods
+  - [x] server
+    - [x] servux
+    - [x] elytra revamped
+    - [x] infinities
+    - [x] mounts stay still
+    - [x] call your horse
+    - [x] nice swimming mounts
 ---
 
 # Update v1.5

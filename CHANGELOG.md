@@ -1,4 +1,4 @@
-# v1.5.1 Changelog
+# v1.6 Changelog
 _old weapons improved_
 
 _loyal steads come at your call_

@@ -1,10 +1,10 @@
+- [Update v1.7](#update-v17)
 - [Update v1.6](#update-v16)
-- [Update v1.5.1](#update-v151)
 - [Update v1.5](#update-v15)
 
 ---
 
-# Update v1.6
+# Update v1.7
 - [ ] fixes and config changes
   - [x] make capes(mod) include all cape providers by default p
   - [ ] make sure map data is not deleted on updates
@@ -12,9 +12,11 @@
 - [x] resourcepacks
   - [x] Visual: Armor Trims
   - [x] Soft Weather
-- [ ] datapack changes
+- [x] datapack changes
+  - [x] none
 - [x] new mods
-  - [ ] server
+  - [x] server
+    - [x] none
   - [x] server & client
     - [x] more delight
     - [x] crate delight
@@ -28,10 +30,10 @@
     - [x] item descriptions, in favor of Hey Wiki mod
       - [x] Idwtialsimmoedm (enchant and effect descriptions)
 - [x] updated mods
-  - [ ] server
+  - [x] server
     - [x] Luki's Ancient Cities
     - [x] Structure Layout Optimizer
-  - [ ] server & client
+  - [x] server & client
     - [x] Enderscape
     - [x] Friends&Foes
     - [x] Farmer's Delight
@@ -39,7 +41,7 @@
     - [x] AdvancedLootInfo
     - [x] Cristel Lib
     - [x] Beltborne Lanterns
-  - [ ] client
+  - [x] client
     - [x] Subtle Effects
     - [x] Particle Rain
     - [x] Optiboxes
@@ -54,7 +56,7 @@
   - [x] Particle Rain
 ---
 
-# Update v1.5.1
+# Update v1.6
 - [x] datapack changes
   - [x] mochila and easy shulker boxes compat
   - [x] calcite recipe

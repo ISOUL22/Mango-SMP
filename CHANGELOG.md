@@ -13,6 +13,9 @@ _flight changed forever_
   - Mounts Stay Still
   - Call Your Horse
   - Nice Swimming Mounts
+- Datapacks
+  - Added Calcite from Dead Coral recipe
+  - Added Mochila and Easy Shulker Boxes compatability
 
 
 ---

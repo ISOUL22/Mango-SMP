@@ -1,20 +1,110 @@
-- [Update to v1.5](#update-to-v15)
+- [Update v1.7](#update-v17)
+- [Update v1.6](#update-v16)
+- [Update v1.5](#update-v15)
 
 ---
 
-# Update to v1.5
+# Update v1.7
+- [x] Fixes and config changes
+  - [x] Make capes(mod) include all cape providers by default
+  - [x] Disable waterfall particles - Subtle Effects
+  - [x] Make sure map data is not deleted on updates
+  - [x] Fix server ip not updating automatically
+- [x] Resourcepacks
+  - [x] Serverpack
+    - [x] Art's Mango Hunger Bar
+    - [x] PixelTwemojiMC-18
+    - [x] Visual: Armor Trims
+    - [x] Fabi´s Lootr 1.21.7 V2
+    - [x] mangoGoldenApples
+    - [x] Re-Gifted
+  - [x] Soft Weather
+- [x] Datapack changes
+  - [x] None
+- [x] New Mods
+  - [x] Server
+    - [x] AudioPlayer
+  - [x] Server & Client
+    - [x] More delight
+    - [x] Crate delight
+    - [x] Trimable tools
+    - [x] Elytra trims
+    - [x] Kitchen projectiles
+    - [x] Better tridents
+  - [x] Client
+    - [x] Controlify (as an optional download)
+    - [x] Boat item view
+    - [x] Riptide depth strider fix
+    - [x] Resourepackcached
+    - [x] Item descriptions, in favor of Hey Wiki mod
+      - [x] IDWTIALSIMMOEDM (enchant and effect descriptions)
+- [x] Updated Mods
+  - [x] Server
+    - [x] Luki's Ancient Cities
+    - [x] Structure Layout Optimizer
+    - [x] Incendium Biomes Only
+  - [x] server & client
+    - [x] Enderscape
+    - [x] Friends&Foes
+    - [x] Farmer's Delight
+    - [x] Fabric Language Kotlin
+    - [x] AdvancedLootInfo aps
+    - [x] Cristel Lib
+    - [x] Beltborne Lanterns
+    - [x] Deimos
+    - [x] MidnightLib
+    - [x] Rail Recipe Rebalance
+  - [x] client
+    - [x] Chat Patches
+    - [x] Chat Heads
+    - [x] Entity Texture Features
+    - [x] Entity Model Features
+    - [x] Sodium pa
+    - [x] Subtle Effects
+    - [x] Presence Footsteps
+    - [x] Optiboxes
+    - [x] OptiGUI
+    - [x] Inventory Profiles next
+    - [x] Controlify
+    - [x] Locator Lodestones
+    - [x] LambDynamicLights
+    - [x] Language Reload
+    - [x] Substrate
+    - [x] libIPN
+    - [x] Puzzle
+- [x] removed mods
+  - [x] Hey Hiki
+  - [x] Particle Rain (Was only included in Pro)
+  - [x] Sound Physics Remastered (Air Only, This is a heavy CPU mod that isn't necessary)
+---
+
+# Update v1.6
+- [x] datapack changes
+  - [x] mochila and easy shulker boxes compat
+  - [x] calcite recipe
+- [x] new mods
+  - [x] server
+    - [x] servux
+    - [x] elytra revamped
+    - [x] infinities
+    - [x] mounts stay still
+    - [x] call your horse
+    - [x] nice swimming mounts
+---
+
+# Update v1.5
 - [x] server
   - [x] mods
   - [x] config
   - [x] clean up
     - [x] resources
   - [x] backup world locally
-- [ ] client
+- [x] client
   - [x] export
     - [x] air
     - [x] pro
   - [x] upload to github
-    - [ ] merge v1 to main
-      - [ ] include changelog
-- [ ] discord
-  - [ ] update anouncement 
+    - [x] merge v1 to main
+      - [x] include changelog
+- [x] discord
+  - [x] update anouncement

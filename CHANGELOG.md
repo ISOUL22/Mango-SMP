@@ -44,7 +44,7 @@ _to you, you're welcome!_
 - Resourcepacks
   - Soft Weather
 - Mods
-  - Controlify (as an optional download)
+  - Controlify (AIR only)
   - More delight
   - Crate delight
   - Trimable tools

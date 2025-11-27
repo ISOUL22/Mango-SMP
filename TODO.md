@@ -32,7 +32,7 @@
     - [x] Kitchen projectiles
     - [x] Better tridents
   - [x] Client
-    - [x] Controlify (as an optional download)
+    - [x] Controlify (AIR only)
     - [x] Boat item view
     - [x] Riptide depth strider fix
     - [x] Resourepackcached

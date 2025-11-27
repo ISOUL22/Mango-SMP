@@ -1,3 +1,89 @@
+# v1.7 Changelog
+_This update is a_
+
+_little Christmas gift from me_
+
+_to you, you're welcome!_
+## Server
+### Added
+- Resourcepacks (Previously Client Side)
+  - Art's Mango Hunger Bar
+  - PixelTwemojiMC-18
+  - Visual: Armor Trims
+  - Fabi´s Lootr 1.21.7 V2
+  - mangoGoldenApples
+  - Re-Gifted
+- Datapacks
+  - None
+- Mods
+  - AudioPlayer
+  - More delight
+  - Crate delight
+  - Trimable tools
+  - Elytra trims
+  - Kitchen projectiles
+  - Better tridents
+### Updated
+- Mods
+  - Luki's Ancient Cities
+  - Structure Layout Optimizer
+  - Enderscape
+  - Friends&Foes
+  - Farmer's Delight
+  - Fabric Language Kotlin
+  - AdvancedLootInfo
+  - Cristel Lib
+  - Beltborne Lanterns
+  - Deimos
+  - MidnightLib
+  - Rail Recipe Rebalance
+  - Incendium Biomes Only
+
+## Client
+### Added
+- Resourcepacks
+  - Soft Weather
+- Mods
+  - Controlify (as an optional download)
+  - More delight
+  - Crate delight
+  - Trimable tools
+  - Elytra trims
+  - Kitchen projectiles
+  - Better tridents
+  - Boat item view
+  - Riptide depth strider fix
+  - Resourepackcached
+  - Item descriptions
+    - IDWTIALSIMMOEDM (enchant and effect descriptions)
+### Changed
+- Moved required resources to a proper Server Resourcepack
+### Removed
+  - Hey Hiki
+  - Particle Rain (Was only included in Pro)
+  - Sound Physics Remastered (Air Only, This is a heavy CPU mod that isn't necessary)
+### Updated
+- Mods
+  - Chat Patches
+  - Chat Heads
+  - Entity Texture Features
+  - Entity Model Features
+  - Sodium
+  - Subtle Effects
+  - Presence Footsteps
+  - Optiboxes
+  - OptiGUI
+  - Inventory Profiles next
+  - Controlify
+  - Locator Lodestones
+  - LambDynamicLights
+  - Language Reload
+  - Substrate
+  - libIPN
+  - Puzzle
+
+---
+
 # v1.6 Changelog
 _old weapons improved_
 
@@ -16,7 +102,6 @@ _flight changed forever_
 - Datapacks
   - Added Calcite from Dead Coral recipe
   - Added Mochila and Easy Shulker Boxes compatability
-
 
 ---
 

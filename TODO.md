@@ -1,7 +1,76 @@
+- [Update v2.0](#update-v20)
 - [Update v1.7](#update-v17)
 - [Update v1.6](#update-v16)
 - [Update v1.5](#update-v15)
+---
 
+# Update v2.0
+- [ ] Updated Minecraft to 26.1.2
+- [ ] Fixes and config changes
+  - [ ] Minecarts bounce when going down hill
+  - [ ] Migrate all shelves to vanilla and copy items within them to new version
+- [ ] Datapack changes
+  - [ ] [Jake's Build Tools](https://github.com/maybejake/Jakes-Build-Tools/releases)
+- [ ] Resourcepacks
+  - [ ] Updated Server Resources
+    - [ ] Updated vanilla tweaks
+    - [ ] [Sparkles](https://modrinth.com/resourcepack/sparkles)
+    - [ ] [Jake's Build Tools](https://github.com/maybejake/Jakes-Build-Tools/releases)
+- [ ] New Mods
+  - [x] Server
+    - [x] Just Enough Backups
+    - [x] Worn Path
+  - [ ] Server & Client
+    - [ ] Clifftree
+      - [ ] Butterbee
+      - [ ] Lithostitched - lib
+    - [ ] Not Enough Trials
+    - [ ] Stellarity
+    - [ ] Bundle Upgrade
+    - [ ] Bundle Weight, There's Four
+      - [ ] Bundle Weight, There's More - lib
+    - [ ] Reduced Elytra Firework
+    - [ ] Clutter No More
+    - [ ] Name Tag Upgrade
+    - [ ] CrazyPainting
+    - [ ] Vehicle Upgrade
+    - [ ] Universal Enchants
+  - [ ] Client
+- [ ] Updated Mods
+    - [x] Everything lol
+- [x] Removed Mods
+  - [x] World Generation
+    - [x] Incendium Biomes Only
+    - [x] Enderscape
+    - [x] Luki's Ancient Cities
+    - [x] Biome Strongholds
+    - [x] Revamped Shipwrecks
+    - [x] Luki's Crazy Chambers
+    - [x] William Wythers' Overhauled Overworld
+  - [x] Server Side QOL
+    - [x] X Backup
+    - [x] /r
+    - [x] Thoroughfabric
+    - [x] AdvancedLootInfo
+  - [x] Building
+    - [x] Shutter
+    - [x] Connectible Chains
+    - [x] Shelves
+    - [x] Enchanted Bookshelves
+  - [x] Mobs & Entities
+    - [x] Nice Swimming Mounts
+    - [x] Boids
+    - [x] Wandering Illusioner
+    - [x] Persistent Parrots
+    - [x] Minecart Trains
+    - [x] Carry On - Will be added back ASAP
+    - [x] Mounts stay still
+  - [x] Equipment
+    - [x] Elytra mod
+    - [x] Infinities
+    - [x] Beltborne Lanterns
+    - [x] Bundled
+      - [x] Item Components
 ---
 
 # Update v1.7

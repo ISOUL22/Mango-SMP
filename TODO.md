@@ -1,44 +1,100 @@
+- [To Do for release](#to-do-for-release)
 - [Update v2.0](#update-v20)
+  - [Datapack Changes](#datapack-changes)
+  - [Resourcepack Changes](#resourcepack-changes)
+  - [Mod Changes](#mod-changes)
+    - [New Mods](#new-mods)
+    - [Updated Mods](#updated-mods)
+    - [Removed Mods](#removed-mods)
 - [Update v1.7](#update-v17)
 - [Update v1.6](#update-v16)
 - [Update v1.5](#update-v15)
 ---
-
-# Update v2.0
-- [ ] Updated Minecraft to 26.1.2
+# To Do for release
+- [ ] Config pass
+  - [ ] Client
+  - [ ] Server
+- [ ] Server Setup
+  - [ ] Upload Files
+    - [ ] Config
+    - [ ] Mods
+    - [ ] World
+      - [ ] Datapacks
+    - [ ] Resourcepack
+- [ ] Export Modpacks
+  - [ ] PRO
+  - [ ] AIR
 - [ ] Fixes and config changes
   - [ ] Minecarts bounce when going down hill
   - [ ] Migrate all shelves to vanilla and copy items within them to new version
-- [ ] Datapack changes
+
+# Update v2.0
+- [ ] Updated Minecraft to 26.1.2
+## Datapack Changes
   - [ ] [Jake's Build Tools](https://github.com/maybejake/Jakes-Build-Tools/releases)
-- [ ] Resourcepacks
+## Resourcepack Changes
   - [ ] Updated Server Resources
     - [ ] Updated vanilla tweaks
     - [ ] [Sparkles](https://modrinth.com/resourcepack/sparkles)
     - [ ] [Jake's Build Tools](https://github.com/maybejake/Jakes-Build-Tools/releases)
-- [ ] New Mods
+## Mod Changes
+### New Mods
   - [x] Server
     - [x] Just Enough Backups
     - [x] Worn Path
+    - [ ] Inanimate Friendship
   - [ ] Server & Client
-    - [ ] Clifftree
-      - [ ] Butterbee
-      - [ ] Lithostitched - lib
-    - [ ] Not Enough Trials
-    - [ ] Stellarity
-    - [ ] Bundle Upgrade
-    - [ ] Bundle Weight, There's Four
-      - [ ] Bundle Weight, There's More - lib
-    - [ ] Reduced Elytra Firework
-    - [ ] Clutter No More
-    - [ ] Name Tag Upgrade
-    - [ ] CrazyPainting
-    - [ ] Vehicle Upgrade
-    - [ ] Universal Enchants
+    - [ ] World Generation
+      - [ ] Clifftree
+        - [ ] Butterbee
+        - [ ] Lithostitched - lib
+      - [ ] Not Enough Trials
+      - [ ] Stellarity
+    - [ ] Equipment
+      - [ ] Bundle Upgrade
+      - [ ] Bundle Weight, There's Four
+        - [ ] Bundle Weight, There's More - lib
+      - [ ] Reduced Elytra Firework
+      - [ ] Universal Enchants
+      - [ ] Name Tag Upgrade
+    - [ ] Food
+      - [ ] Rustic Delight
+      - [ ] Display Delight Fabric
+      - [ ] Tweaks Delight
+    - [ ] QOL
+      - [ ] Additional Placements
+      - [ ] CrazyPainting
+      - [ ] Vehicle Upgrade
+      - [ ] Just Enough Items
   - [ ] Client
-- [ ] Updated Mods
-    - [x] Everything lol
-- [x] Removed Mods
+    - [ ] Custom Block Highlight
+    - [ ] Enchantment Descriptions
+      - [ ] Prickle - lib
+    - [ ] Dragglable Lists (Port)
+    - [ ] Cape Provider
+    - [ ] Music & Melody
+    - [ ] Better Clouds
+### Updated Mods
+  - [x] Everything lol
+### Removed Mods
+  - [x] Client
+    - [x] Better Text Selection
+    - [x] Better Third Person
+    - [x] Draggable Lists
+    - [x] Enhanced Attack Indicator
+    - [x] FastBoot
+    - [x] Highlight
+    - [x] idwtialsimmoedm
+    - [x] Model Gap Fix
+    - [x] Palladium
+    - [x] Polytone
+    - [x] Substrate
+    - [x] ToadLib
+    - [x] Wakes - **Will be added back ASAP**
+    - [x] Capes
+    - [x] Audio Engine Tweaks
+    - [x] Roughly Enough Items
+      - [x] Architectury - lib
   - [x] World Generation
     - [x] Incendium Biomes Only
     - [x] Enderscape
@@ -52,6 +108,8 @@
     - [x] /r
     - [x] Thoroughfabric
     - [x] AdvancedLootInfo
+    - [x] Packet Fixer
+    - [x] Disconnect Packet Fix
   - [x] Building
     - [x] Shutter
     - [x] Connectible Chains
@@ -63,14 +121,14 @@
     - [x] Wandering Illusioner
     - [x] Persistent Parrots
     - [x] Minecart Trains
-    - [x] Carry On - Will be added back ASAP
+    - [x] Carry On - **Will be added back ASAP**
     - [x] Mounts stay still
   - [x] Equipment
     - [x] Elytra mod
     - [x] Infinities
     - [x] Beltborne Lanterns
     - [x] Bundled
-      - [x] Item Components
+      - [x] Item Components - lib
 ---
 
 # Update v1.7

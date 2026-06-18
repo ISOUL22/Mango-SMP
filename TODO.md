@@ -11,69 +11,78 @@
 - [Update v1.5](#update-v15)
 ---
 # To Do for release
-- [ ] Config pass
-  - [ ] Client
-  - [ ] Server
+- [x] Config pass
+  - [x] Client
+  - [x] Server
 - [ ] Server Setup
   - [ ] Upload Files
     - [ ] Config
     - [ ] Mods
-    - [ ] World
-      - [ ] Datapacks
-    - [ ] Resourcepack
+    - [x] World
+      - [x] Datapacks
+        - [ ] lower conffetti creeper % 100% -> 20%
+    - [x] Resourcepack
+      - [x] jakesbuildtools
+      - [x] sparkles
+      - [x] vanilla tweaks
+      - [x] mango hunger bar
+      - [x] visual trims
+      - [x] soft weather
+      - [x] gentler weather sounds
 - [ ] Export Modpacks
   - [ ] PRO
   - [ ] AIR
-- [ ] Fixes and config changes
-  - [ ] Minecarts bounce when going down hill
-  - [ ] Migrate all shelves to vanilla and copy items within them to new version
+- [x] Fixes and config changes
+  - [x] Migrate all shelves to vanilla and copy items within them to new version
 
 # Update v2.0
-- [ ] Updated Minecraft to 26.1.2
+- [x] Updated Minecraft to 26.1.2
 ## Datapack Changes
-  - [ ] [Jake's Build Tools](https://github.com/maybejake/Jakes-Build-Tools/releases)
+  - [x] Added Jake's Build Tools
+  - [x] Updated MangoSMP-Data
+    - [x] Removed Shutter recipes
+    - [x] Updated Mochila and Item Interactions integration
+    - [x] Merged cheaper map recipe
 ## Resourcepack Changes
-  - [ ] Updated Server Resources
-    - [ ] Updated vanilla tweaks
-    - [ ] [Sparkles](https://modrinth.com/resourcepack/sparkles)
-    - [ ] [Jake's Build Tools](https://github.com/maybejake/Jakes-Build-Tools/releases)
+  - [x] Updated vanilla tweaks
+  - [x] Added Sparkles
+  - [x] Added Jake's Build Tools
 ## Mod Changes
 ### New Mods
   - [x] Server
     - [x] Just Enough Backups
     - [x] Worn Path
-    - [ ] Inanimate Friendship
-  - [ ] Server & Client
-    - [ ] World Generation
-      - [ ] Clifftree
-        - [ ] Butterbee
-        - [ ] Lithostitched - lib
-      - [ ] Not Enough Trials
-      - [ ] Stellarity
-    - [ ] Equipment
-      - [ ] Bundle Upgrade
-      - [ ] Bundle Weight, There's Four
-        - [ ] Bundle Weight, There's More - lib
-      - [ ] Reduced Elytra Firework
-      - [ ] Universal Enchants
-      - [ ] Name Tag Upgrade
-    - [ ] Food
-      - [ ] Rustic Delight
-      - [ ] Display Delight Fabric
-      - [ ] Tweaks Delight
-    - [ ] QOL
-      - [ ] Additional Placements
-      - [ ] CrazyPainting
-      - [ ] Vehicle Upgrade
-      - [ ] Just Enough Items
-  - [ ] Client
-    - [ ] Custom Block Highlight
-    - [ ] Enchantment Descriptions
-      - [ ] Prickle - lib
-    - [ ] Dragglable Lists (Port)
-    - [ ] Cape Provider
-    - [ ] Music & Melody
-    - [ ] Better Clouds
+    - [x] Inanimate Friendship
+  - [x] Server & Client
+    - [x] World Generation
+      - [x] Clifftree
+        - [x] Butterbee
+        - [x] Lithostitched - lib
+      - [x] Not Enough Trials
+      - [x] Stellarity
+    - [x] Equipment
+      - [x] Bundle Upgrade
+      - [x] Bundle Weight, There's Four
+        - [x] Bundle Weight, There's More - lib
+      - [x] Reduced Elytra Firework
+      - [x] Universal Enchants
+      - [x] Name Tag Upgrade
+    - [x] Food
+      - [x] Rustic Delight
+      - [x] Display Delight Fabric
+      - [x] Tweaks Delight
+    - [x] QOL
+      - [x] Additional Placements
+      - [x] CrazyPainting
+      - [x] Vehicle Upgrade
+      - [x] Just Enough Items
+  - [x] Client
+    - [x] Custom Block Highlight
+    - [x] Enchantment Descriptions
+      - [x] Prickle - lib
+    - [x] Cape Provider
+    - [x] Music & Melody
+    - [x] Better Clouds
 ### Updated Mods
   - [x] Everything lol
 ### Removed Mods

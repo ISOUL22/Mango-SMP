@@ -15,12 +15,40 @@
   - [x] Client
   - [x] Server
 - [ ] Server Setup
-  - [ ] Upload Files
-    - [ ] Config
-    - [ ] Mods
+  - [ ] Voicechat
+  - [ ] Distant Horizons - look out for updates
+  - [ ] Backups
+  - [x] Upload Files
+    - [x] server-icon
+    - [x] whitelist
+    - [x] usercache
+    - [x] ops
+    - [x] server.properties
+    - [x] bans
+    - [x] Config
+    - [x] Mods
     - [x] World
       - [x] Datapacks
-        - [ ] lower conffetti creeper % 100% -> 20%
+      - [x] Data
+      - [x] Dimensions
+        - [x] overworld
+          - [x] data
+          - [x] entities
+          - [x] poi
+          - [x] region
+        - [x] nether
+          - [x] data
+          - [x] entities
+          - [x] poi
+          - [x] region
+      - [x] alternate current config
+      - [x] players
+      - [x] server config
+      - [x] level
+      - [x] level.dat
+      - [x] level.dat_old
+      - [x] session.lock
+      - [x] xaeromap.text
     - [x] Resourcepack
       - [x] jakesbuildtools
       - [x] sparkles
@@ -30,7 +58,7 @@
       - [x] soft weather
       - [x] gentler weather sounds
 - [ ] Export Modpacks
-  - [ ] PRO
+  - [x] PRO
   - [ ] AIR
 - [x] Fixes and config changes
   - [x] Migrate all shelves to vanilla and copy items within them to new version

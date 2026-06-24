@@ -131,3 +131,7 @@ Hay dos versiones del modpack:
 3. navega al area de modrinth y da clic en `actualizar desde archivo`
 4. en la ventana de navegación de archivos, selecciona la nueva versión y haz clic en `abrir`
 5. espera a que la actualización termine y listo!
+
+---
+# Credits:
+Vanilla Tweaks: https://vanillatweaks.net/

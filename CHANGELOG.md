@@ -1,11 +1,22 @@
+- [Update v2.2](#update-v22)
+  - [Config Changes](#config-changes)
+  - [Mod Changes](#mod-changes)
+    - [Client-Side](#client-side)
+      - [New Mods](#new-mods)
+      - [Updated Mods](#updated-mods)
+      - [Removed Mods](#removed-mods)
+    - [Server-Side](#server-side)
+      - [New Mods](#new-mods-1)
+      - [Updated Mods](#updated-mods-1)
+      - [Removed Mods](#removed-mods-1)
 - [v2.1 Changelog](#v21-changelog)
 - [v2.0 Changelog](#v20-changelog)
   - [Datapack Changes](#datapack-changes)
   - [Resourcepack Changes](#resourcepack-changes)
-  - [Mod Changes](#mod-changes)
-    - [New Mods](#new-mods)
-    - [Updated Mods](#updated-mods)
-    - [Removed Mods](#removed-mods)
+  - [Mod Changes](#mod-changes-1)
+    - [New Mods](#new-mods-2)
+    - [Updated Mods](#updated-mods-2)
+    - [Removed Mods](#removed-mods-2)
 - [v1.7 Changelog](#v17-changelog)
   - [Server](#server)
     - [Added](#added)
@@ -38,6 +49,94 @@
   - [Air](#air-1)
   - [Pro](#pro-1)
   - [Server](#server-3)
+
+---
+
+# Update v2.2
+## Config Changes
+  - Update Server IP
+  - Adjusted Item Description Config
+  - Adjusted Jade Config
+  - Adjusted Enhanced Tooltips Config
+  - Adjusted Servux Config
+  - Enabled collisions for reconnectible chains
+## Mod Changes
+### Client-Side
+#### New Mods
+  - None
+#### Updated Mods
+  - YetAnotherConfigLib
+  - Stellarity
+  - Simple Voice Chat
+  - Xaero's Minimap
+  - Xaero's World Map
+  - Lootr
+  - Lithostitched
+  - Konfig
+  - Just Enough Items
+  - libIPN
+  - Farmer's Delight
+  - Fabric API
+  - JamLib
+  - Jade
+  - Elytra Trims
+  - Easy Shulker Boxes
+  - Bundle Upgrade
+  - AudioPlayer
+  - Collective
+  - Cristel Lib
+  - Call Your Horse
+  - 5555ff-lib
+  - Zoomify
+  - Sumbol Chat
+  - Rewmove Reloading Screen
+  - Reese's Sodium Options
+  - Presence Footsteps
+  - PrickleMC
+  - NotEnoughtAnimations
+  - Locator Lodestones
+  - libIPN
+  - Language Reload
+  - Inventory Profiles Next
+  - EntityCulling
+  - 3d Skin Layers
+  - Distant Horizons
+  - Default Options
+  - Blur+
+  - Cubes Without Borders
+#### Removed Mods
+  - EnchantmentDescriptions
+  - Barebones McQoy
+  - Show My Armored Hand
+### Server-Side
+#### New Mods
+  - Spark Profiler
+#### Updated Mods
+  - Servux
+  - YetAnotherConfigLib
+  - Stellarity
+  - Simple Voice Chat
+  - Xaero's Minimap
+  - Xaero's World Map
+  - Lootr
+  - Lithostitched
+  - Konfig
+  - Just Enough Items
+  - libIPN
+  - Farmer's Delight
+  - Fabric API
+  - JamLib
+  - Jade
+  - Elytra Trims
+  - Easy Shulker Boxes
+  - Bundle Upgrade
+  - AudioPlayer
+  - Collective
+  - Cristel Lib
+  - Call Your Horse
+  - 5555ff-lib
+#### Removed Mods
+  - None
 
 ---
 

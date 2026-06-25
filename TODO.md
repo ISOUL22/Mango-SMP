@@ -1,23 +1,24 @@
 - [To Do for release](#to-do-for-release)
-- [Update v2.0](#update-v20)
-  - [Datapack Changes](#datapack-changes)
-  - [Resourcepack Changes](#resourcepack-changes)
+- [Update v2.2](#update-v22)
+  - [Config Changes](#config-changes)
   - [Mod Changes](#mod-changes)
-    - [New Mods](#new-mods)
-    - [Updated Mods](#updated-mods)
-    - [Removed Mods](#removed-mods)
-- [Update v1.7](#update-v17)
-- [Update v1.6](#update-v16)
-- [Update v1.5](#update-v15)
+    - [Client-Side](#client-side)
+      - [New Mods](#new-mods)
+      - [Updated Mods](#updated-mods)
+      - [Removed Mods](#removed-mods)
+    - [Server-Side](#server-side)
+      - [New Mods](#new-mods-1)
+      - [Updated Mods](#updated-mods-1)
+      - [Removed Mods](#removed-mods-1)
 ---
 # To Do for release
 - [x] Config pass
   - [x] Client
   - [x] Server
 - [ ] Server Setup
-  - [ ] Voicechat
+  - [x] Voicechat
   - [ ] Distant Horizons - look out for updates
-  - [ ] Backups
+  - [x] Backups
   - [x] Upload Files
     - [x] server-icon
     - [x] whitelist
@@ -28,247 +29,106 @@
     - [x] Config
     - [x] Mods
     - [x] World
-      - [x] Datapacks
-      - [x] Data
-      - [x] Dimensions
-        - [x] overworld
-          - [x] data
-          - [x] entities
-          - [x] poi
-          - [x] region
-        - [x] nether
-          - [x] data
-          - [x] entities
-          - [x] poi
-          - [x] region
-      - [x] alternate current config
-      - [x] players
-      - [x] server config
-      - [x] level
-      - [x] level.dat
-      - [x] level.dat_old
-      - [x] session.lock
-      - [x] xaeromap.text
-    - [x] Resourcepack
-      - [x] jakesbuildtools
-      - [x] sparkles
-      - [x] vanilla tweaks
-      - [x] mango hunger bar
-      - [x] visual trims
-      - [x] soft weather
-      - [x] gentler weather sounds
+- [x] Resourcepacks
+  - [x] jakesbuildtools
+  - [x] sparkles
+  - [x] vanilla tweaks
+  - [x] mango hunger bar
+  - [x] visual trims
+  - [x] soft weather
+  - [x] gentler weather sounds
 - [ ] Export Modpacks
   - [x] PRO
   - [ ] AIR
 - [x] Fixes and config changes
   - [x] Migrate all shelves to vanilla and copy items within them to new version
+---
 
-# Update v2.0
-- [x] Updated Minecraft to 26.1.2
-## Datapack Changes
-  - [x] Added Jake's Build Tools
-  - [x] Updated MangoSMP-Data
-    - [x] Removed Shutter recipes
-    - [x] Updated Mochila and Item Interactions integration
-    - [x] Merged cheaper map recipe
-## Resourcepack Changes
-  - [x] Updated vanilla tweaks
-  - [x] Added Sparkles
-  - [x] Added Jake's Build Tools
+# Update v2.2
+## Config Changes
+  - [ ] Update Server IP
+  - [x] Adjusted Item Description Config
+  - [x] Adjusted Jade Config
+  - [x] Adjusted Enhanced Tooltips Config
+  - [ ] Adjusted Servux Config
+  - [x] Enabled collisions for reconnectible chains
 ## Mod Changes
-### New Mods
-  - [x] Server
-    - [x] Just Enough Backups
-    - [x] Worn Path
-    - [x] Inanimate Friendship
-  - [x] Server & Client
-    - [x] World Generation
-      - [x] Clifftree
-        - [x] Butterbee
-        - [x] Lithostitched - lib
-      - [x] Not Enough Trials
-      - [x] Stellarity
-    - [x] Equipment
-      - [x] Bundle Upgrade
-      - [x] Bundle Weight, There's Four
-        - [x] Bundle Weight, There's More - lib
-      - [x] Reduced Elytra Firework
-      - [x] Universal Enchants
-      - [x] Name Tag Upgrade
-    - [x] Food
-      - [x] Rustic Delight
-      - [x] Display Delight Fabric
-      - [x] Tweaks Delight
-    - [x] QOL
-      - [x] Additional Placements
-      - [x] CrazyPainting
-      - [x] Vehicle Upgrade
-      - [x] Just Enough Items
-  - [x] Client
-    - [x] Custom Block Highlight
-    - [x] Enchantment Descriptions
-      - [x] Prickle - lib
-    - [x] Cape Provider
-    - [x] Music & Melody
-    - [x] Better Clouds
-### Updated Mods
-  - [x] Everything lol
-### Removed Mods
-  - [x] Client
-    - [x] Better Text Selection
-    - [x] Better Third Person
-    - [x] Draggable Lists
-    - [x] Enhanced Attack Indicator
-    - [x] FastBoot
-    - [x] Highlight
-    - [x] idwtialsimmoedm
-    - [x] Model Gap Fix
-    - [x] Palladium
-    - [x] Polytone
-    - [x] Substrate
-    - [x] ToadLib
-    - [x] Wakes - **Will be added back ASAP**
-    - [x] Capes
-    - [x] Audio Engine Tweaks
-    - [x] Roughly Enough Items
-      - [x] Architectury - lib
-  - [x] World Generation
-    - [x] Incendium Biomes Only
-    - [x] Enderscape
-    - [x] Luki's Ancient Cities
-    - [x] Biome Strongholds
-    - [x] Revamped Shipwrecks
-    - [x] Luki's Crazy Chambers
-    - [x] William Wythers' Overhauled Overworld
-  - [x] Server Side QOL
-    - [x] X Backup
-    - [x] /r
-    - [x] Thoroughfabric
-    - [x] AdvancedLootInfo
-    - [x] Packet Fixer
-    - [x] Disconnect Packet Fix
-  - [x] Building
-    - [x] Shutter
-    - [x] Connectible Chains
-    - [x] Shelves
-    - [x] Enchanted Bookshelves
-  - [x] Mobs & Entities
-    - [x] Nice Swimming Mounts
-    - [x] Boids
-    - [x] Wandering Illusioner
-    - [x] Persistent Parrots
-    - [x] Minecart Trains
-    - [x] Carry On - **Will be added back ASAP**
-    - [x] Mounts stay still
-  - [x] Equipment
-    - [x] Elytra mod
-    - [x] Infinities
-    - [x] Beltborne Lanterns
-    - [x] Bundled
-      - [x] Item Components - lib
----
-
-# Update v1.7
-- [x] Fixes and config changes
-  - [x] Make capes(mod) include all cape providers by default
-  - [x] Disable waterfall particles - Subtle Effects
-  - [x] Make sure map data is not deleted on updates
-  - [x] Fix server ip not updating automatically
-- [x] Resourcepacks
-  - [x] Serverpack
-    - [x] Art's Mango Hunger Bar
-    - [x] PixelTwemojiMC-18
-    - [x] Visual: Armor Trims
-    - [x] Fabi´s Lootr 1.21.7 V2
-    - [x] mangoGoldenApples
-    - [x] Re-Gifted
-  - [x] Soft Weather
-- [x] Datapack changes
+### Client-Side
+#### New Mods
   - [x] None
-- [x] New Mods
-  - [x] Server
-    - [x] AudioPlayer
-  - [x] Server & Client
-    - [x] More delight
-    - [x] Crate delight
-    - [x] Trimable tools
-    - [x] Elytra trims
-    - [x] Kitchen projectiles
-    - [x] Better tridents
-  - [x] Client
-    - [x] Controlify (AIR only)
-    - [x] Boat item view
-    - [x] Riptide depth strider fix
-    - [x] Resourepackcached
-    - [x] Item descriptions, in favor of Hey Wiki mod
-      - [x] IDWTIALSIMMOEDM (enchant and effect descriptions)
-- [x] Updated Mods
-  - [x] Server
-    - [x] Luki's Ancient Cities
-    - [x] Structure Layout Optimizer
-    - [x] Incendium Biomes Only
-  - [x] server & client
-    - [x] Enderscape
-    - [x] Friends&Foes
-    - [x] Farmer's Delight
-    - [x] Fabric Language Kotlin
-    - [x] AdvancedLootInfo aps
-    - [x] Cristel Lib
-    - [x] Beltborne Lanterns
-    - [x] Deimos
-    - [x] MidnightLib
-    - [x] Rail Recipe Rebalance
-  - [x] client
-    - [x] Chat Patches
-    - [x] Chat Heads
-    - [x] Entity Texture Features
-    - [x] Entity Model Features
-    - [x] Sodium pa
-    - [x] Subtle Effects
-    - [x] Presence Footsteps
-    - [x] Optiboxes
-    - [x] OptiGUI
-    - [x] Inventory Profiles next
-    - [x] Controlify
-    - [x] Locator Lodestones
-    - [x] LambDynamicLights
-    - [x] Language Reload
-    - [x] Substrate
-    - [x] libIPN
-    - [x] Puzzle
-- [x] removed mods
-  - [x] Hey Hiki
-  - [x] Particle Rain (Was only included in Pro)
-  - [x] Sound Physics Remastered (Air Only, This is a heavy CPU mod that isn't necessary)
----
+#### Updated Mods
+  - [x] YetAnotherConfigLib
+  - [x] Stellarity
+  - [x] Simple Voice Chat
+  - [x] Xaero's Minimap
+  - [x] Xaero's World Map
+  - [x] Lootr
+  - [x] Lithostitched
+  - [x] Konfig
+  - [x] Just Enough Items
+  - [x] libIPN
+  - [x] Farmer's Delight
+  - [x] Fabric API
+  - [x] JamLib
+  - [x] Jade
+  - [x] Elytra Trims
+  - [x] Easy Shulker Boxes
+  - [x] Bundle Upgrade
+  - [x] AudioPlayer
+  - [x] Collective
+  - [x] Cristel Lib
+  - [x] Call Your Horse
+  - [x] 5555ff-lib
+  - [x] Sodium
+  - [x] Zoomify
+  - [x] Sumbol Chat
+  - [x] Rewmove Reloading Screen
+  - [x] Reese's Sodium Options
+  - [x] Presence Footsteps
+  - [x] PrickleMC
+  - [x] NotEnoughtAnimations
+  - [x] Locator Lodestones
+  - [x] libIPN
+  - [x] Language Reload
+  - [x] Inventory Profiles Next
+  - [x] EntityCulling
+  - [x] 3d Skin Layers
+  - [x] Distant Horizons
+  - [x] Default Options
+  - [x] Blur+
+  - [x] Cubes Without Borders
+#### Removed Mods
+  - [x] EnchantmentDescriptions
+  - [x] Barebones McQoy
+  - [x] Show My Armored Hand
 
-# Update v1.6
-- [x] datapack changes
-  - [x] mochila and easy shulker boxes compat
-  - [x] calcite recipe
-- [x] new mods
-  - [x] server
-    - [x] servux
-    - [x] elytra revamped
-    - [x] infinities
-    - [x] mounts stay still
-    - [x] call your horse
-    - [x] nice swimming mounts
+### Server-Side
+#### New Mods
+  - [x] Spark Profiler
+#### Updated Mods
+  - [x] Servux
+  - [x] YetAnotherConfigLib
+  - [x] Stellarity
+  - [x] Simple Voice Chat
+  - [x] Xaero's Minimap
+  - [x] Xaero's World Map
+  - [x] Lootr
+  - [x] Lithostitched
+  - [x] Konfig
+  - [x] Just Enough Items
+  - [x] libIPN
+  - [x] Farmer's Delight
+  - [x] Fabric API
+  - [x] JamLib
+  - [x] Jade
+  - [x] Elytra Trims
+  - [x] Easy Shulker Boxes
+  - [x] Bundle Upgrade
+  - [x] AudioPlayer
+  - [x] Collective
+  - [x] Cristel Lib
+  - [x] Call Your Horse
+  - [x] 5555ff-lib
+#### Removed Mods
+  - None
 ---
-
-# Update v1.5
-- [x] server
-  - [x] mods
-  - [x] config
-  - [x] clean up
-    - [x] resources
-  - [x] backup world locally
-- [x] client
-  - [x] export
-    - [x] air
-    - [x] pro
-  - [x] upload to github
-    - [x] merge v1 to main
-      - [x] include changelog
-- [x] discord
-  - [x] update anouncement

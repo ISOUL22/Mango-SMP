@@ -1,3 +1,159 @@
+- [v2.1 Changelog](#v21-changelog)
+- [v2.0 Changelog](#v20-changelog)
+  - [Datapack Changes](#datapack-changes)
+  - [Resourcepack Changes](#resourcepack-changes)
+  - [Mod Changes](#mod-changes)
+    - [New Mods](#new-mods)
+    - [Updated Mods](#updated-mods)
+    - [Removed Mods](#removed-mods)
+- [v1.7 Changelog](#v17-changelog)
+  - [Server](#server)
+    - [Added](#added)
+    - [Updated](#updated)
+  - [Client](#client)
+    - [Added](#added-1)
+    - [Changed](#changed)
+    - [Removed](#removed)
+    - [Updated](#updated-1)
+- [v1.6 Changelog](#v16-changelog)
+  - [SERVER](#server-1)
+    - [Added:](#added-2)
+- [v1.5 Changelog](#v15-changelog)
+  - [SERVER](#server-2)
+    - [Added:](#added-3)
+    - [Changed:](#changed-1)
+    - [Removed:](#removed-1)
+    - [Updated:](#updated-2)
+  - [PRO](#pro)
+    - [Added:](#added-4)
+    - [Removed:](#removed-2)
+    - [Updated:](#updated-3)
+    - [Changed:](#changed-2)
+  - [AIR](#air)
+    - [Added:](#added-5)
+    - [Removed:](#removed-3)
+    - [Updated:](#updated-4)
+    - [Changed:](#changed-3)
+- [Change Log v1.4](#change-log-v14)
+  - [Air](#air-1)
+  - [Pro](#pro-1)
+  - [Server](#server-3)
+
+---
+
+# v2.1 Changelog
+Patch Release:
+  - Added Reconnectible Chains
+  - Adjusted Xaero Entity Rader Settings
+
+---
+
+# v2.0 Changelog
+- Updated Minecraft to 26.1.2
+## Datapack Changes
+  - Added Jake's Build Tools
+  - Updated MangoSMP-Data
+    - Removed Shutter recipes
+    - Updated Mochila and Item Interactions integration
+    - Merged cheaper map recipe
+## Resourcepack Changes
+  - Updated vanilla tweaks
+  - Added Sparkles
+  - Added Jake's Build Tools
+## Mod Changes
+### New Mods
+  - Server
+    - Just Enough Backups
+    - Worn Path
+    - Inanimate Friendship
+  - Server & Client
+    - World Generation
+      - Clifftree
+        - Butterbee
+        - Lithostitched - lib
+      - Not Enough Trials
+      - Stellarity
+    - Equipment
+      - Bundle Upgrade
+      - Bundle Weight, There's Four
+        - Bundle Weight, There's More - lib
+      - Reduced Elytra Firework
+      - Universal Enchants
+      - Name Tag Upgrade
+    - Food
+      - Rustic Delight
+      - Display Delight Fabric
+      - Tweaks Delight
+    - QOL
+      - Additional Placements
+      - CrazyPainting
+      - Vehicle Upgrade
+      - Just Enough Items
+  - Client
+    - Custom Block Highlight
+    - Enchantment Descriptions
+      - Prickle - lib
+    - Cape Provider
+    - Music & Melody
+    - Better Clouds
+### Updated Mods
+  - Everything lol
+### Removed Mods
+  - Client
+    - Better Text Selection
+    - Better Third Person
+    - Draggable Lists
+    - Enhanced Attack Indicator
+    - FastBoot
+    - Highlight
+    - idwtialsimmoedm
+    - Model Gap Fix
+    - Palladium
+    - Polytone
+    - Substrate
+    - ToadLib
+    - Wakes - **Will be added back ASAP**
+    - Capes
+    - Audio Engine Tweaks
+    - Roughly Enough Items
+      - Architectury - lib
+  - World Generation
+    - Incendium Biomes Only
+    - Enderscape
+    - Luki's Ancient Cities
+    - Biome Strongholds
+    - Revamped Shipwrecks
+    - Luki's Crazy Chambers
+    - William Wythers' Overhauled Overworld
+  - Server Side QOL
+    - X Backup
+    - /r
+    - Thoroughfabric
+    - AdvancedLootInfo
+    - Packet Fixer
+    - Disconnect Packet Fix
+  - Building
+    - Shutter
+    - Connectible Chains
+    - Shelves
+    - Enchanted Bookshelves
+  - Mobs & Entities
+    - Nice Swimming Mounts
+    - Boids
+    - Wandering Illusioner
+    - Persistent Parrots
+    - Minecart Trains
+    - Carry On - **Will be added back ASAP**
+    - Mounts stay still
+  - Equipment
+    - Elytra mod
+    - Infinities
+    - Beltborne Lanterns
+    - Bundled
+      - Item Components - lib
+
+---
+
 # v1.7 Changelog
 _This update is a_
 
@@ -261,71 +417,71 @@ _be heard from now on_
 
 ## Air
 **Resourcepacks**
-- [x] added Cleaner weather, idk something that makes rain nice
+- added Cleaner weather, idk something that makes rain nice
 
 **Mods**
-- [x] added Fast Boot *client*
-- [x] added Audio Engine Tweaks *client*
-- [x] added ScalableLux *client*
-- [x] added Leave My Bars Alone *client*
-- [x] added Client Maps *client*
-- [x] added Map in Slot *client*
-- [x] added Connectable Chains *both*
-- [x] added Trade Cycling *both*
-- [x] switch to simple voice chat *both*
+- added Fast Boot *client*
+- added Audio Engine Tweaks *client*
+- added ScalableLux *client*
+- added Leave My Bars Alone *client*
+- added Client Maps *client*
+- added Map in Slot *client*
+- added Connectable Chains *both*
+- added Trade Cycling *both*
+- switch to simple voice chat *both*
 
 **Config**
-- [x] Sound Physics Remastered
-  - [x] enabled revaluted moving sounds, and set the interval to 10
+- Sound Physics Remastered
+  - enabled revaluted moving sounds, and set the interval to 10
 
 ## Pro
 **Resourcepacks**
 
 **Mods**
-- [x] removed Cool Rain *client*
-- [x] added Capes *client*
-- [x] added Wakes *client*
-- [x] added Fast Boot *client*
-- [x] added Audio Engine Tweaks *client*
-- [x] added Client Maps *client*
-- [x] added Map in Slot *client*
-- [x] added Simple RPC *client*
-  - [x] need to set this up
-- [x] added Atmosphera *client*
-- [x] added ScalableLux *client*
-- [x] added Leave My Bars Alone *client*
-- [x] added Copy Screenshot to CLipboard *client*
-- [x] added Boids *server*
-- [x] remove Crops Love Rain *server*
-- [x] switch to simple voice chat *both*
-  - [x] added Simple Voice Chat Enhanced Groups *server*
-- [x] added Connectable Chains *both*
-- [x] added Trade Cycling *both*
+- removed Cool Rain *client*
+- added Capes *client*
+- added Wakes *client*
+- added Fast Boot *client*
+- added Audio Engine Tweaks *client*
+- added Client Maps *client*
+- added Map in Slot *client*
+- added Simple RPC *client*
+  - need to set this up
+- added Atmosphera *client*
+- added ScalableLux *client*
+- added Leave My Bars Alone *client*
+- added Copy Screenshot to CLipboard *client*
+- added Boids *server*
+- remove Crops Love Rain *server*
+- switch to simple voice chat *both*
+  - added Simple Voice Chat Enhanced Groups *server*
+- added Connectable Chains *both*
+- added Trade Cycling *both*
 
 **Config**
-- [x] Sublte Effects
-  - [x] make item drop particle only apply to rare items
-  - [x] disable snoring
-- [x] Sound Physics Remastered
-  - [x] enabled revaluted moving sounds, and set the interval to 20
-- [x] Particle Rain
-  - [x] max particles 1500 -> 750
+- Sublte Effects
+  - make item drop particle only apply to rare items
+  - disable snoring
+- Sound Physics Remastered
+  - enabled revaluted moving sounds, and set the interval to 20
+- Particle Rain
+  - max particles 1500 -> 750
 
 ## Server
 **Resourcepacks**
-- [x] updated polymer resources
-  - [x] idk what is going on with this, check the docs
-  - [x] maybe this is causing item frames to not show their item?
+- updated polymer resources
+  - idk what is going on with this, check the docs
+  - maybe this is causing item frames to not show their item?
 
 **Datapacks**
-- [x] added charcoal to black dye recipe
+- added charcoal to black dye recipe
 
 **Mods**
-- [x] added Connectable Chains
-- [x] added Trade Cycling
-- [x] added Boids
-- [x] remove Crops Love Rain
-- [x] switch to simple voice chat
-  - [x] voice chat interaction
-  - [x] enhanced groups
-  - [x] radio
+- added Connectable Chains
+- added Trade Cycling
+- added Boids
+- remove Crops Love Rain
+- switch to simple voice chat
+  - voice chat interaction
+  - enhanced groups
+  - radio
